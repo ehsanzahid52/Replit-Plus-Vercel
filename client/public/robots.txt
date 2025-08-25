@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://goldsniper.replit.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Priority pages
+Allow: /signals-app
+Allow: /
+
+# Block development assets
+Disallow: /src/
+Disallow: /_next/
+Disallow: /assets/
+Disallow: /vite.config.ts
