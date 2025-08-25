@@ -1,0 +1,537 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "performance": "Leistung",
+    "pricing": "Preise",
+    "tools": "Werkzeuge",
+    "support": "Support",
+    "signalsApp": "Signale App"
+  },
+  "common": {
+    "downloadFor": "Herunterladen für {{platform}}",
+    "downloadFree": "Kostenlos Herunterladen",
+    "getStarted": "Loslegen",
+    "learnMore": "Mehr Erfahren",
+    "viewResults": "Ergebnisse Anzeigen",
+    "contactSupport": "Support Kontaktieren",
+    "faq": "Häufige Fragen",
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "tradingSignals": "Trading-Signale",
+    "goldTrading": "Gold-Trading",
+    "xauusd": "XAUUSD",
+    "professionalTraders": "Professionelle Trader",
+    "getOnGooglePlay": "Bei Google Play erhalten",
+    "downloadOnAppStore": "Im App Store herunterladen",
+    "downloadForIphone": "Für iPhone herunterladen",
+    "downloadForAndroid": "Für Android herunterladen"
+  },
+  "hero": {
+    "title": "Die #1 Gold Signals",
+    "titleHighlight": "App der Welt",
+    "subtitle": "Wir senden starke Gold-Signale für Sie zum Copy-Trading. Treten Sie jetzt bei, um Signal-Einblicke für XAUUSD-Trading zu erhalten.",
+    "stats": {
+      "accuracy": "93% Genauigkeit",
+      "users": "17K+ Nutzer",
+      "coverage": "24/7 Abdeckung",
+      "delivery": "< 1s Lieferung"
+    }
+  },
+  "signalsApp": {
+    "title": "Laden Sie die Premium",
+    "titleHighlight": "Gold Trading App herunter",
+    "subtitle": "Erhalten Sie Echtzeit-XAUUSD-Signale, erweiterte Analysen und Copy-Trading-Funktionen direkt auf Ihrem mobilen Gerät."
+  },
+  "features": {
+    "title": "Warum Gold Sniper wählen?",
+    "subtitle": "Wir geben täglich Echtzeit-Signale und konzentrieren uns immer auf die besten Optionen, anstatt die schlechten zu überhandeln. Unsere kostenlosen Gold-Signale ermöglichen es Ihnen, auf die effizienteste und bequemste Weise zu verdienen.",
+    "cards": {
+      "experienced": {
+        "title": "Erfahrene Trader an Ihrer Seite 🥇",
+        "description": "Unsere Trading-Experten sind hier, um Ihnen zu helfen. Nutzen Sie ihre über 10 Jahre Erfahrung, um endlich in den Gold-Markt einzusteigen."
+      },
+      "signals": {
+        "title": "Gold-Kauf- und Verkaufssignale 🥇",
+        "description": "Erhalten Sie unsere Signale auf Ihr Telefon und beginnen Sie erfolgreicher zu traden. Sie können handeln, wann und wo Sie wollen, wenn Sie unseren Live-Goldpreis-Signalen mit Echtzeit-Alerts über mobile Benachrichtigungen folgen."
+      },
+      "overwhelmed": {
+        "title": "Lassen Sie sich nie vom Trading des Gold-Markts überwältigen 🥇",
+        "description": "Wissen ist Macht; je mehr Sie wissen, desto besser wird Ihr Trading-Spiel sein. Nur die stärksten Trades unter aktuellen Marktbedingungen werden von unseren Trading-Analysten bereitgestellt."
+      },
+      "interface": {
+        "title": "Einfache und Benutzerfreundliche Oberfläche 🥇",
+        "description": "Keine Zeitverschwendung beim Versuch, eine verwirrende Benutzeroberfläche zu verstehen! Die Gold Sniper Mobile App verfügt über ein einfaches, benutzerfreundliches Design, das Ihnen genau das gibt, was Sie brauchen, ohne Aufwand oder Mühe. Sie können schnell durch alle Seiten navigieren."
+      }
+    },
+    "cta": {
+      "title": "Alle neuesten und beliebtesten Funktionen von Gold Sniper sind jetzt auf Ihrem Mobilgerät verfügbar!"
+    }
+  },
+  "video": {
+    "title": "GoldSniper in Aktion sehen",
+    "subtitle": "Sehen Sie, wie professionelle Trader unsere Mobile App verwenden, um hochpräzise Gold-Trading-Signale zu erhalten und auszuführen.",
+    "description": "Erleben Sie die Kraft von Echtzeit-Gold-Trading-Signalen"
+  },
+  "howItWorks": {
+    "title": "Wie funktionieren Gold Sniper Signale? 🥇",
+    "subtitle": "Unsere Analysten prüfen jede Komponente, um sicherzustellen, dass Sie ein einfach zu verwendendes Gold-Signal-System für eine hochwertige Trading-Erfahrung haben. Wenn Sie unseren Live-Trading-Ideen folgen, können Sie unsere Live-Trades schnell auf Ihrem Trading-Konto duplizieren.",
+    "steps": {
+      "step1": "Unser Analyst identifiziert eine Marktchance, die zu einem profitablen Trade führen könnte",
+      "step2": "Nach einer Risikoanalyse bestimmen sie TP und SL, die den Gewinn maximieren, während sichergestellt wird, dass Verluste minimiert werden",
+      "step3": "Das Signal wird bestätigt und sofort an Ihr Telefon geliefert",
+      "step4": "Sie führen den Trade auf Ihrem Broker-Konto aus und behalten TP und SL im Auge!",
+      "step5": "Ruhen Sie sich aus, ohne sich um den Trade zu sorgen, nehmen Sie ein Getränk und warten Sie auf den nächsten! Überprüfen Sie Ihr Bankkonto, sehen Sie, wie viel Geld Sie verdient haben und fühlen Sie sich gut! 💰"
+    }
+  },
+  "howToRead": {
+    "title": "Wie man Gold Sniper's Gold-Signale liest 🥇",
+    "subtitle": "In unserem Gold-Signal-Terminal finden Sie die folgenden Informationen:",
+    "status": {
+      "title": "Status",
+      "description": "Der aktuelle Status des Signals:",
+      "live": "Folgen Sie der Alert und treten Sie in den Markt ein",
+      "closed": "Signal ist nicht mehr operativ"
+    },
+    "action": {
+      "title": "Aktion",
+      "description": "Kauf- oder Verkaufssignale mit aktuellem Preis",
+      "buy": "Gold-Kaufsignale",
+      "sell": "Gold-Verkaufssignale"
+    },
+    "entryPrice": {
+      "title": "Einstiegspreis",
+      "description": "Premium-Mitglieder erhalten Zugang zum Einstiegspreis jedes Trade-Signals"
+    },
+    "stopLoss": {
+      "title": "Stop Loss",
+      "description": "Ein automatisierter Ausstiegspunkt, der Ihre Investition schützt. Dies ist der vorgeschlagene Preis für den Ausstieg aus der Transaktion, wenn sie gegen unsere Analyse geht."
+    },
+    "payAttention": {
+      "title": "Achtung! 🥇",
+      "subtitle": "Es gibt 3 verschiedene Möglichkeiten, wie XAUUSD-Signale geschlossen werden:",
+      "automaticallySl": "Durch Erreichen des Stop-Loss-Niveaus",
+      "automaticallyTp": "Durch Erreichen des Take-Profit-Niveaus",
+      "manually": "Unser Team schließt das Signal basierend auf Momentum und Marktfaktoren"
+    }
+  },
+  "goldTradingEducation": {
+    "title": "Was ist Gold-Trading laut Gold Sniper? 🥇",
+    "subtitle": "Sie sollten wissen, dass Gold ein fossiler und nicht erneuerbarer Edelmetall ist. Die Reserven offener Minen werden Jahr für Jahr erschöpft, was zu einem konstanten Wachstum des Wertes dieses Vermögenswerts im Laufe der Zeit führt.",
+    "safeHaven": {
+      "title": "Sichere Hafen-Investition",
+      "description": "Gold ist auch eine Art sicherer Hafen für Investitionskapital. Wirtschaftliche Abschwünge führen immer zu einem großen Abfluss von Geld aus Wertpapieren. Die Angst vor Katastrophen wie einem Börsencrash wird Investoren dazu bringen, Geld zu zuverlässigeren Vermögenswerten zu verschieben, einer davon ist Gold."
+    },
+    "longTerm": {
+      "title": "Langfristiges Wertwachstum",
+      "description": "Die jährliche Abwertung von Fiat-Geld, oft als Inflation bekannt, kann den kontinuierlichen Anstieg der Goldpreise erklären. Der Wert von Gold steigt immer langfristig, unabhängig von der makroökonomischen Umgebung."
+    },
+    "successMetrics": {
+      "title": "Trading-Erfolgsmetriken",
+      "subtitle": "Ein konstanten monatlichen Einkommen von 10-20% ist eine starke finanzielle Leistung für einen Gold-Trader. Sie müssen nur Intraday-Trading betreiben, um ein solches Ergebnis im Gold-Trading zu erreichen.",
+      "monthlyIncome": "Monatliches Einkommensziel",
+      "timeframe": "Bester Timeframe",
+      "tradingPair": "Primäres Trading-Paar"
+    }
+  },
+  "tradingTips": {
+    "title": "Unsere Top 7 Tipps für erfolgreiches Gold-Trading 🥇",
+    "subtitle": "Wie Sie sehen können, ist das Folgen unserer Gold-Währungssignale unkompliziert. Wenn ein Signal in unserer Signal-App erscheint oder Sie eine Alert auf Ihrem Telefon erhalten, öffnen Sie einen Trade zum Spot-Preis und verwenden Sie die vorbestimmten Stop-Loss- und Take-Profit-Einstellungen.",
+    "tips": {
+      "plan": {
+        "title": "Planen Sie Ihre Trades",
+        "description": "Bevor Sie eine neue Position starten, machen Sie einen Plan für das Ein- und Aussteigen eines Trades. Bleiben Sie bei Ihrer Strategie und widerstehen Sie dem Drang, sie im Moment zu ändern."
+      },
+      "riskManagement": {
+        "title": "Risikomanagement",
+        "description": "Öffnen Sie niemals Positionen mit Ihrem gesamten verfügbaren Kapital. Verwenden Sie nicht mehr als 20-25% davon für alle offenen Positionen und nicht mehr als 2% für jeden einzelnen Trade."
+      },
+      "cutLosses": {
+        "title": "Schneiden Sie Verluste früh ab",
+        "description": "Verschlimmern Sie niemals eine verlustbringende Situation. Stop-Orders sollten verwendet werden, um potenzielle Verluste bei allen aktiven Positionen zu minimieren."
+      },
+      "followTrend": {
+        "title": "Folgen Sie dem Trend",
+        "description": "Anstatt gegen den Markt zu gehen, gehen Sie mit ihm. Der Markt hat immer recht!"
+      },
+      "bigPicture": {
+        "title": "Großes Bild fokussieren",
+        "description": "Schauen Sie sich das große Bild an. Auch wenn Sie nur für kurze Zeit handeln, sollten Sie immer ein Auge auf den langfristigen Trend haben."
+      },
+      "review": {
+        "title": "Überprüfen Sie Ihre Trades",
+        "description": "Machen Sie es zur Gewohnheit, Ihre Trades durchzugehen. Auf diese Weise können Sie Ihre Gewinne und Verluste verfolgen sowie Fehler entdecken."
+      },
+      "stopLoss": {
+        "title": "Verwenden Sie Stop-Loss-Orders",
+        "description": "Schützen Sie immer Ihr Kapital mit Stop-Loss-Orders. Wir geben gelegentlich Notizen mit unseren Signalen, wie \"Erhöhen Sie den Stop-Loss auf Break-even, wenn der Preis unserem Take-Profit nahekommt.\""
+      }
+    }
+  },
+  "marketFactors": {
+    "title": "Faktoren, die Goldpreise beeinflussen 🥇",
+    "subtitle": "Hier kann Gold Sniper Ihnen helfen, alle verschiedenen Faktoren zu kennen, die Gold beeinflussen, und Ihnen die besten Trading-Möglichkeiten zu finden.",
+    "supplyDemand": {
+      "title": "Angebot und Nachfrage",
+      "description": "Laut Volumendaten pro Tag macht die Schmuckherstellung die Hälfte der weltweiten Nachfrage aus. Weitere 40% bestehen aus Anlagekonten. Wenn die Nachfrage hoch und das Angebot niedrig ist, steigen die Preise."
+    },
+    "volatility": {
+      "title": "Marktvolatilität",
+      "description": "Die Echtzeit-Trading-Signale Ihrer Charting-Software reagieren auf Marktbewegungen. Wenn Aktien unterdurchschnittlich abschneiden, wenden sich Anleger Gold zu. Wenn die Börsenerwartungen bullisch sind, sinken die Gold-Trading-Niveaus."
+    },
+    "geopolitics": {
+      "title": "Geopolitik",
+      "description": "Ein einfacher Blick auf die Goldpreishistorie zeigt, dass heutige Projektionen von geopolitischen Einflüssen beeinflusst werden. Unsicherheit in den Finanzmärkten wird Unternehmen dazu bringen, zu Gold zu eilen und die Preise zu treiben."
+    }
+  },
+  "appInterface": {
+    "title": "Intuitive Trading-Oberfläche",
+    "subtitle": "Unsere App verfügt über eine saubere, professionelle Oberfläche, die für Anfänger und erfahrene Trader konzipiert ist. Greifen Sie mit unserem optimierten Dashboard auf alle kritischen Informationen auf einen Blick zu.",
+    "features": [
+      "Live-Marktdaten und Preis-Feeds",
+      "Ein-Tap-Signalausführung",
+      "Portfolio-Performance-Tracking",
+      "Risikomanagement-Tools"
+    ],
+    "button": "Demo testen"
+  },
+  "premium": {
+    "title": "Gehen Sie Premium 🥇",
+    "subtitle": "Unsere Mobile App wird nicht nur Live-Updates zu Gold-Signalen für Premium-Nutzer bereitstellen, sondern Ihnen auch diese Vorteile bieten.",
+    "benefits": [
+      "PREMIUM-Mitglieder erhalten mehr Gold-Signale, mehr Trading-Möglichkeiten und mehr Gewinne.",
+      "PREMIUM-Mitglieder können mehrere Trades pro Tag öffnen und für jedes Signal eine Analyse erhalten.",
+      "PREMIUM-Mitglieder können ihre Marktunterscheidung verbessern, indem sie ihre eigene Analyse mit unserer vergleichen.",
+      "Gold Sniper PREMIUM-Mitglieder verdienen doppelt so viel, wenn sie den Markt verlassen."
+    ],
+    "expertTeam": {
+      "title": "Expertenteam",
+      "description": "Wir sind ein Team erfahrener Trader und Analysten. Wir wissen alles über Finanzmärkte, da wir über zehn Jahre Erfahrung haben. Wir haben Gold Sniper entwickelt, weil wir wissen, wie schwierig es sein kann, zu traden und ruhig zu bleiben. Wir sind hier, um Ihnen zu helfen, Ihren Ansatz zu verbessern und erstaunliche Ergebnisse auf Ihren Konten zu erzielen."
+    }
+  },
+  "performance": {
+    "title": "93% profitable Signale mit unseren täglichen XAUUSD-Signalen",
+    "subtitle": "Unsere Nutzer verlassen sich auf starke Signalpräzision und schnelle Ausführung, um Gewinne im Gold-Markt zu sichern.",
+    "button": "Unsere Ergebnisse",
+    "stats": {
+      "successRate": "Erfolgsrate",
+      "activeUsers": "Aktive Nutzer",
+      "marketCoverage": "Marktabdeckung",
+      "signalDelivery": "Signallieferung"
+    },
+    "appPerformance": {
+      "title": "Bewiesene App-Leistung 📈",
+      "subtitle": "Unsere Mobile App liefert konsistente Ergebnisse mit Echtzeit-Datenverarbeitung und blitzschneller Signallieferung. Treten Sie Tausenden erfolgreichen Tradern bei, die unsere Plattform täglich nutzen."
+    }
+  },
+  "comprehensiveGuide": {
+    "title": "Vollständiger Leitfaden zum Gold-Trading mit GoldSniper 📚",
+    "subtitle": "Alles, was Sie über erfolgreiches Gold-Trading mit unserem professionellen Signal-Service wissen müssen.",
+    "sections": {
+      "realTime": {
+        "title": "Minutengenaue Gold-Signale und Trading 🥇",
+        "content": "Gold-Signale sind extrem zeitkritisch, und Sie müssen schnell handeln, um die besten Preise zu sichern. Preise können unglaublich schnell schwanken, also wenn Sie eine Gold-Signal-Benachrichtigung erhalten, sollten Sie sofort kaufen oder verkaufen. Folglich, wenn Ihre Gold-Signale direkt mit Ihrem Telefon verknüpft sind, können Sie Trades schnell ausführen. Die ideale Gold-Trading-App sollte mehrere Funktionen enthalten, die es Ihnen ermöglichen, auf kritische Informationen zuzugreifen, Echtzeit-Alerts zu erhalten und den Profis beim Trading zuzusehen. Warum warten, wenn Gold Sniper alle diese Informationen in einer einzigen Trading-App kombiniert und Ihnen alle Tools gibt, die Sie brauchen, um ein erfolgreicher Gold-Trader zu werden?"
+      },
+      "global": {
+        "title": "Globale Gold-Signale verstehen 🥇",
+        "content": "Gold-Trading-Stunden sind länger als die von praktisch jedem anderen Markt der Welt, was es Ihnen ermöglicht, praktisch zu jeder Zeit zu handeln. Der FX-Markt, der von Brokern weltweit genutzt wird, ist oft für Profis, Amateur-Trader und Anfänger aus der ganzen Welt verfügbar. Gold Sniper Signale können Ihnen helfen, über das, was passiert, auf dem Laufenden zu bleiben, egal wo Sie sind. Sie können sich auf Gold Sniper, die beste Gold-Signal-App, verlassen, um Sie konstant von praktisch überall aus traden zu lassen. Was hält Sie davon ab, die Märkte zu vernichten, wenn Ihr Laptop verbunden ist und Internet verfügbar ist?"
+      },
+      "specifics": {
+        "title": "Gold-Trading-Spezifika 🥇",
+        "content": "Beim Handel mit diesem Edelmetall auf dem OTC-Markt ist es kritisch, sich zu erinnern, dass ein Standard-Lot 100 Feinunzen entspricht. XAU ist ein Gold-Symbol im Gold-Markt. Broker geben Tradern die Chance, vom Preis dieses Vermögenswerts zu profitieren, indem sie auf dem XAU/USD-Paar handeln. Das Diagramm zeigt den Preis einer Unze Metall in US-Dollar. Broker benötigen einen Mindestvertragsbetrag von 0.01 vom Lot, was bedeutet, dass Sie 1.550 USD haben müssen, um mit dem Gold-Trading zu beginnen (einschließlich Provisionen). Der größte Hebelgrad für unerfahrene Trader ist durchschnittlich 1:1000; dennoch stellt der Handel mit einem so großen Volumen geliehener Mittel schwere Trading-Gefahren dar. Der ideale Hebelgrad ist 1:100. Bei der Verwendung von Hebel ist es kritisch, den Margin-Trading-Bedingungen genau zu achten. Einige Broker setzen den Stop Out (erzwungenes Schließen eines Trades mit schlechtem finanziellen Ergebnis) bei 60-70 Prozent der Einlage des Traders, während andere ihn bei 20-30 Prozent setzen. Darüber hinaus denken Sie an die Regeln des Geldmanagements in Finanzmärkten. Das Risiko pro Transaktion sollte nicht mehr als 5-10% betragen. Um diesen Anforderungen zu entsprechen, sollten Sie mindestens $200 USD auf ein Trading-Konto einzahlen."
+      },
+      "howGoldWorks": {
+        "title": "Wie funktioniert Gold mit Gold Sniper? 🥇",
+        "content": "Im Gold-Markt ist Gold im Grunde eine Währung. Es wird fast immer gegen den US-Dollar unter dem Symbol XAU/USD gehandelt. Folglich muss Ihr Ansatz Änderungen im US-Dollar überwachen. Ein Anstieg des US-Dollar-Werts könnte den Gold-Wert reduzieren. Bleiben Sie also auf Gold-Nachrichten-Websites auf dem Laufenden für Einblicke in kommende Trends und Analysen. Beim Gold-Trading auf dem Gold-Markt ist Liquidität sehr entscheidend. Gold hat das höchste durchschnittliche tägliche Handelsvolumen aller Währungspaare. Sie können eine Vielzahl von Techniken und Systemen in Ihrer Gold-Trading-Strategie verwenden, wie Gold-Scalping. Alle werden tägliche technische Untersuchung von Preis- und Volumendiagrammen benötigen."
+      },
+      "startTrading": {
+        "title": "Wie man mit Gold-Trading mit Gold Sniper beginnt 🥇",
+        "content": "Auch für Personen mit wenig oder keiner vorherigen Erfahrung oder einer kleinen Geldmenge zu investieren, ist Gold-Trading mit Gold Sniper die beste Wahl. Einige Fragen, die Sie haben könnten: Wie werde ich wissen, wann ein neues Signal in Kraft treten wird? Soll ich kaufen oder verkaufen, und wie viel sollte ich zahlen? Unser Signal-Service kann alle diese Fragen und mehr beantworten!"
+      },
+      "bestApps": {
+        "title": "Beste Gold-Währungssignal-Apps zu verwenden 🥇",
+        "content": "Zunächst und vor allem, wählen Sie eine App, die mit Ihren aktuellen Geräten kompatibel ist. Wenn Sie eine Vielzahl mobiler Geräte verwenden, suchen Sie nach den besten Gold-Signal-Anwendungen zum Herunterladen für iOS und Android. Weil xauusd-Währungssignale in Echtzeit bereitgestellt werden, sollten Sie so schnell wie möglich auf sie handeln, um Ihre Chancen zu optimieren, einen gewinnbringenden Trade auszuführen. Alle unsere Tipps basieren auf technischer Analyse von Gold-Diagrammen sowie fundamentaler Forschung von Wirtschaftsereignissen und Marktnachrichten."
+      }
+    }
+  },
+  "downloadCta": {
+    "title": "Laden Sie die Gold Sniper Mobile App jetzt herunter! 🥇",
+    "subtitle": "Sie können sich auf Gold Sniper, die beste Gold-Signal-App, verlassen, um Sie konstant von praktisch überall aus traden zu lassen. Was hält Sie davon ab, die Märkte zu vernichten, wenn Ihr Laptop verbunden ist und Internet verfügbar ist?"
+  },
+  "safeTraders": {
+    "title": "Wir sind sichere und präzise Trader 💪",
+    "subtitle": "Mit über 5 Jahren Erfahrung im Forex und über 1000 XAUUSD-Trades pro Monat stellen wir nur die schärfsten Einträge und Warnungen sicher.",
+    "button": "Unsere Ergebnisse",
+    "analysisButton": "Unsere Analyse"
+  },
+  "howItWorks": {
+    "title": "Es ist einfach zu beginnen 🚀",
+    "steps": {
+      "download": {
+        "title": "App herunterladen",
+        "description": "Holen Sie sich GoldSniper aus Ihrem App Store und erstellen Sie Ihr Konto in Sekunden."
+      },
+      "join": {
+        "title": "Unserer Telegram-Gruppe beitreten",
+        "description": "Verbinden Sie sich mit unserer Community erfolgreicher Trader und erhalten Sie exklusive Einblicke."
+      },
+      "copy": {
+        "title": "Signale kopieren beginnen",
+        "description": "Folgen Sie unseren präzisen Ein- und Ausstiegspunkten, um Ihre Trading-Gewinne zu maximieren."
+      }
+    },
+    "cta": "Treten Sie uns heute bei und beginnen Sie, 20% monatlich zu verdienen. 💰"
+  },
+  "download": {
+    "title": "Kostenlos herunterladen 🆓",
+    "subtitle": "Starten Sie heute mit GoldSniper. Keine versteckten Gebühren, keine Abonnements. Nur Premium-Gold-Trading-Signale auf Knopfdruck."
+  },
+  "seo": {
+    "home": {
+      "title": "GoldSniper - Die #1 Gold Trading Signale App 🔥",
+      "description": "Zugang zu den besten GOLD-Signalen für XAUUSD-Trading auf den Märkten. 93% profitable Trades mit unserer Premium Gold-Trading-Signale-App.",
+      "keywords": "gold trading signale, XAUUSD signale, gold trading app, kostenlose trading signale, goldpreis alerts, trading plattform, forex signale, goldmarkt analyse"
+    },
+    "signalsApp": {
+      "title": "GoldSniper App-Funktionen - Professionelle Gold-Trading-Signale",
+      "description": "Entdecken Sie GoldSnipers erweiterte Funktionen für XAUUSD-Trading. Erhalten Sie 93% genaue Signale, Echtzeit-Alerts, Expertenanalyse und professionelle Trading-Tools auf Mobile.",
+      "keywords": "goldsniper app funktionen, XAUUSD trading app, gold signale mobile app, trading alerts, professionelle gold analyse, mobile trading plattform"
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was Sie über GoldSniper Trading-Signale wissen müssen",
+    "questions": {
+      "whatIs": {
+        "q": "Was ist GoldSniper und wie funktioniert es?",
+        "a": "GoldSniper ist eine professionelle Gold-Trading-Signale-App, die Echtzeit-XAUUSD-Trading-Alerts mit 93% Genauigkeit liefert. Unsere Experten-Analysten analysieren Marktbedingungen und senden Ihnen präzise Kauf-/Verkaufssignale direkt auf Ihr mobiles Gerät."
+      },
+      "accuracy": {
+        "q": "Wie genau sind Ihre Gold-Trading-Signale?",
+        "a": "Unsere Signale halten eine 93% Erfolgsrate basierend auf historischer Performance. Unser Team erfahrener Trader mit über 10 Jahren im Gold-Markt analysiert sorgfältig jedes Signal vor der Lieferung, um maximale Profitabilität zu gewährleisten."
+      },
+      "free": {
+        "q": "Ist GoldSniper kostenlos zu nutzen?",
+        "a": "Ja, GoldSniper bietet kostenlose Gold-Trading-Signale, um Tradern beim Erfolg im XAUUSD-Markt zu helfen. Laden Sie unsere Mobile App herunter und beginnen Sie, professionelle Trading-Alerts ohne Kosten zu erhalten."
+      },
+      "platforms": {
+        "q": "Auf welchen Plattformen ist GoldSniper verfügbar?",
+        "a": "GoldSniper ist auf iOS- und Android-Plattformen verfügbar. Sie können es aus dem App Store oder Google Play Store herunterladen und sofort mit dem Empfang von Trading-Signalen beginnen."
+      },
+      "receive": {
+        "q": "Wie erhalte ich die Trading-Signale?",
+        "a": "Sobald Sie die GoldSniper-App heruntergeladen haben, erhalten Sie Echtzeit-Push-Benachrichtigungen mit detaillierten Trading-Signalen einschließlich Einstiegspunkten, Stop-Loss und Take-Profit-Levels für XAUUSD-Trades."
+      },
+      "experience": {
+        "q": "Benötige ich Trading-Erfahrung, um GoldSniper zu nutzen?",
+        "a": "Keine vorherige Erfahrung erforderlich! Unsere Signale kommen mit klaren Anweisungen und unsere einfache Benutzeroberfläche macht es Anfängern leicht, professionellen Trading-Empfehlungen zu folgen."
+      },
+      "timeframes": {
+        "q": "Welche Zeitrahmen decken Ihre Signale ab?",
+        "a": "Unsere Signale sind für verschiedene Zeitrahmen optimiert, einschließlich Scalping, Day-Trading und Swing-Trading. Jedes Signal spezifiziert den empfohlenen Zeitrahmen für maximale Effektivität."
+      },
+      "broker": {
+        "q": "Kann ich diese Signale mit jedem Broker verwenden?",
+        "a": "Ja, unsere XAUUSD-Signale sind universell und können mit jedem Forex-Broker verwendet werden, der Gold-Trading anbietet. Die Signale beinhalten Standard-Ein-/Ausstiegspunkte, die auf allen Plattformen funktionieren."
+      }
+    }
+  },
+  "footer": {
+    "links": {
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen"
+  },
+  "results": {
+    "chart": {
+      "title": "Letzten zehn Tage"
+    },
+    "stats": {
+      "totalTrades": "Gesamt Trades",
+      "totalPips": "Gesamt Pips",
+      "winRate": "Gewinnrate",
+      "dailyReturn": "Täglicher Ertrag",
+      "monthlyReturn": "Monatlicher Ertrag",
+      "tradesPerMonth": "Trades pro Monat",
+      "averagePips": "Durchschnitt Pips",
+      "averageTime": "Durchschnittszeit"
+    },
+    "cta": {
+      "title": "Bereit zum Handeln?",
+      "description": "Erhalten Sie Echtzeit-XAUUSD-Signale, verfolgen Sie Ihre Performance und schließen Sie sich Tausenden erfolgreicher Trader mit GoldSniper an.",
+      "downloadAndroid": "Für Android herunterladen",
+      "downloadIOS": "Für iOS herunterladen",
+      "features": {
+        "realtime": "Echtzeit-Signale",
+        "performance": "Performance-Tracking",
+        "support": "24/7 Support"
+      }
+    }
+  },
+  "support": {
+    "title": "Support Kontaktieren",
+    "subtitle": "Brauchen Sie Hilfe? Haben Sie Fragen? Wir sind hier, um Ihnen bei allen Anfragen zu GoldSniper zu helfen.",
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Ihr Name",
+      "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "ihre.email@beispiel.com",
+      "reason": "Grund für Kontakt",
+      "reasonPlaceholder": "Wählen Sie einen Grund",
+      "message": "Nachricht",
+      "messagePlaceholder": "Bitte beschreiben Sie Ihre Anfrage im Detail...",
+      "send": "Nachricht Senden",
+      "sending": "Wird gesendet..."
+    },
+    "reasons": {
+      "general": "Allgemeine Anfrage",
+      "technical": "Technischer Support",
+      "bug": "Fehlerbericht",
+      "feedback": "Feedback"
+    },
+    "contact": {
+      "title": "Andere Wege uns zu erreichen",
+      "email": "E-Mail"
+    },
+    "faq": {
+      "title": "Häufige Fragen"
+    },
+    "faqs": {
+      "title": "Häufig Gestellte Fragen",
+      "subtitle": "Finden Sie Antworten auf die häufigsten Fragen zu GoldSniper"
+    },
+    "success": {
+      "title": "Nachricht Erfolgreich Gesendet!",
+      "description": "Ihr E-Mail-Client sollte sich mit Ihrer Nachricht geöffnet haben. Falls nicht, senden Sie Ihre Nachricht bitte manuell an info@goldsniper.io",
+      "sendAnother": "Weitere Nachricht Senden"
+    }
+  },
+  "calculators": {
+    "common": {
+      "calculate": "Berechnen",
+      "clear": "Löschen",
+      "result": "Ergebnis",
+      "results": "Ergebnisse",
+      "analysis": "Analyse",
+      "loading": "Berechnet...",
+      "error": "Bitte gültige Werte eingeben",
+      "xauusdTradingGuide": "XAUUSD Trading-Leitfaden",
+      "professionalTool": "Professionelles Tool",
+      "freeCalculator": "Kostenloser Rechner"
+    },
+    "positionSize": {
+      "title": "XAUUSD Positionsgrößen-Rechner",
+      "subtitle": "Berechnen Sie optimale Positionsgröße für XAUUSD-Trading mit Risikomanagement",
+      "description": "Berechnen Sie optimale Positionsgrößen für XAUUSD-Trading mit erweiterten Risikomanagement-Funktionen.",
+      "accountBalance": "Kontostand ($)",
+      "riskPercentage": "Risiko-Prozentsatz (%)",
+      "entryPrice": "Einstiegspreis",
+      "stopLoss": "Stop Loss",
+      "positionSize": "Positionsgröße (Lots)",
+      "calculateButton": "Positionsgröße Berechnen"
+    },
+    "pip": {
+      "title": "XAUUSD Pip-Rechner",
+      "subtitle": "Berechnen Sie Pip-Wert und Gewinn/Verlust für XAUUSD-Positionen",
+      "description": "Berechnen Sie Pip-Werte für XAUUSD mit detaillierten Beispielen und Gewinn-/Verlustanalyse.",
+      "currencyPair": "Währungspaar",
+      "tradeSize": "Trade-Größe (Lots)",
+      "pips": "Anzahl Pips",
+      "pipValue": "Pip-Wert ($)",
+      "calculateButton": "Pip-Wert Berechnen"
+    },
+    "margin": {
+      "title": "XAUUSD Margin-Rechner",
+      "subtitle": "Berechnen Sie Margin-Anforderungen und Hebel für Gold-Trading",
+      "description": "Berechnen Sie Margin-Anforderungen für XAUUSD-Trading mit Hebelanalyse.",
+      "tradeSize": "Trade-Größe (Lots)",
+      "leverage": "Hebel",
+      "currentPrice": "Aktueller Preis",
+      "marginRequired": "Erforderliche Margin",
+      "calculateButton": "Margin Berechnen"
+    },
+    "fibonacci": {
+      "title": "XAUUSD Fibonacci-Rechner",
+      "subtitle": "Berechnen Sie Fibonacci Retracement- und Extension-Level",
+      "description": "Berechnen Sie Fibonacci-Level für XAUUSD Gold-Trading.",
+      "highPrice": "Höchstpreis",
+      "lowPrice": "Tiefstpreis",
+      "calculateButton": "Fibonacci Berechnen"
+    },
+    "pivot": {
+      "title": "XAUUSD Pivot-Punkt-Rechner",
+      "subtitle": "Berechnen Sie Pivot-Punkte und Support-/Resistance-Level",
+      "description": "Berechnen Sie Pivot-Punkte für XAUUSD Gold-Trading.",
+      "calculateButton": "Pivot-Punkte Berechnen"
+    },
+    "riskOfRuin": {
+      "title": "Ruin-Risiko-Rechner",
+      "subtitle": "Berechnen Sie die Wahrscheinlichkeit, Ihr Trading-Konto zu verlieren",
+      "description": "Berechnen Sie Ruin-Risiko-Wahrscheinlichkeit für XAUUSD-Trading.",
+      "calculateButton": "Ruin-Risiko Berechnen"
+    },
+    "leverage": {
+      "title": "XAUUSD Hebel-Rechner",
+      "subtitle": "Berechnen Sie aktuellen Hebel und Margin-Nutzung",
+      "description": "Berechnen Sie aktuellen Hebel für XAUUSD-Trading.",
+      "calculateButton": "Hebel Berechnen"
+    },
+    "compounding": {
+      "title": "XAUUSD Zinseszins-Rechner",
+      "subtitle": "Berechnen Sie das zusammengesetzte Wachstum Ihres Trading-Kontos",
+      "description": "Berechnen Sie Zinseszins-Wachstum für XAUUSD-Trading-Konten.",
+      "calculateButton": "Wachstum Berechnen"
+    },
+    "drawdown": {
+      "title": "XAUUSD Drawdown-Rechner",
+      "subtitle": "Berechnen Sie den aktuellen Drawdown Ihres Trading-Kontos",
+      "description": "Berechnen Sie Drawdown-Prozentsatz für XAUUSD-Trading-Konten.",
+      "calculateButton": "Drawdown Berechnen"
+    },
+    "rebate": {
+      "title": "XAUUSD Rabatt-Rechner",
+      "subtitle": "Berechnen Sie Trading-Rabatte und Cashback-Belohnungen",
+      "description": "Berechnen Sie Trading-Rabatte für XAUUSD-Trading.",
+      "calculateButton": "Rabatte Berechnen"
+    },
+    "currency": {
+      "title": "Währungsumrechner",
+      "subtitle": "Währungen für internationales XAUUSD-Trading umrechnen",
+      "description": "Währungen für internationales XAUUSD Gold-Trading umrechnen.",
+      "calculateButton": "Währung Umrechnen"
+    }
+  },
+  "tradingInsights": {
+    "title": "Unsere Handelseinblicke",
+    "viewMore": "Weitere Einblicke anzeigen",
+    "cards": {
+      "smartDollar": {
+        "title": "Intelligente Dollar-Einstiege",
+        "description": "Lernen Sie optimale Einstiegspunkte für XAUUSD-Trades basierend auf USD-Stärke-Analyse.",
+        "readTime": "5 Min. Lesezeit"
+      },
+      "goldTrends": {
+        "title": "Gold-Markttrends",
+        "description": "Verstehen Sie aktuelle Marktmuster und kommende Chancen im Goldhandel.",
+        "readTime": "8 Min. Lesezeit"
+      },
+      "riskManagement": {
+        "title": "Risikomanagement",
+        "description": "Meistern Sie die Kunst der Positionsgröße und Stop-Loss-Platzierung für konsistente Gewinne.",
+        "readTime": "6 Min. Lesezeit"
+      }
+    }
+  },
+  "insights": {
+    "title": "Neueste Markteinblicke",
+    "subtitle": "Bleiben Sie mit unserer Expertenanalyse und Echtzeit-Markteinblicken für XAUUSD-Handel vorne."
+  }
+}

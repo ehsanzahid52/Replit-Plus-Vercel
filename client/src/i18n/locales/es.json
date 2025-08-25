@@ -1,0 +1,633 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Características",
+    "performance": "Resultados",
+    "pricing": "Precios",
+    "tools": "Herramientas",
+    "support": "Soporte",
+    "signalsApp": "App de Señales"
+  },
+  "common": {
+    "downloadFor": "Descargar para {{platform}}",
+    "downloadFree": "Descarga Gratis",
+    "getStarted": "Comenzar",
+    "learnMore": "Saber Más",
+    "viewResults": "Ver Resultados",
+    "contactSupport": "Contactar Soporte",
+    "faq": "Preguntas Frecuentes",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "tradingSignals": "Señales de Trading",
+    "goldTrading": "Trading de Oro",
+    "xauusd": "XAUUSD",
+    "professionalTraders": "Traders Profesionales",
+    "getOnGooglePlay": "Obtener en Google Play",
+    "downloadOnAppStore": "Descargar en App Store",
+    "downloadForIphone": "Descargar para iPhone",
+    "downloadForAndroid": "Descargar para Android"
+  },
+  "hero": {
+    "title": "El #1 Gold Signals",
+    "titleHighlight": "app en el mundo",
+    "subtitle": "Enviamos señales de Oro fuertes para que puedas copiar operaciones. Únete ahora para recibir información sobre señales para trading XAUUSD.",
+    "stats": {
+      "accuracy": "93% Precisión",
+      "users": "17K+ Usuarios",
+      "coverage": "Cobertura 24/7",
+      "delivery": "< 1s Entrega"
+    }
+  },
+  "signalsApp": {
+    "title": "Descarga la Premium",
+    "titleHighlight": "App de Trading de Oro",
+    "subtitle": "Obtén señales XAUUSD en tiempo real, análisis avanzados y funciones de copy trading directamente en tu dispositivo móvil."
+  },
+  "features": {
+    "title": "¿Por qué elegir Gold Sniper?",
+    "subtitle": "Proporcionamos señales en tiempo real diariamente y siempre nos enfocamos en las mejores opciones en lugar de hacer sobretrading con las malas. Nuestras señales gratuitas de oro te permitirán ganar de las maneras más eficientes y convenientes posibles.",
+    "cards": {
+      "experienced": {
+        "title": "Traders experimentados a tu lado 🥇",
+        "description": "Nuestros expertos en trading están aquí para ayudarte. Usa sus más de 10 años de experiencia para finalmente ingresar al mercado del oro."
+      },
+      "signals": {
+        "title": "Señales de Compra y Venta de Oro 🥇",
+        "description": "Recibe nuestras señales en tu teléfono y comienza a hacer trading con más éxito. Puedes hacer trading cuando y donde quieras si sigues nuestras señales en vivo de precio del oro con alertas en tiempo real a través de notificaciones móviles."
+      },
+      "overwhelmed": {
+        "title": "Nunca te sientas abrumado por el trading del mercado del Oro 🥇",
+        "description": "El conocimiento es poder; mientras más sepas, mejor será tu juego de trading. Solo los trades más fuertes en las condiciones actuales del mercado son proporcionados por nuestros analistas de trading."
+      },
+      "interface": {
+        "title": "Interfaz Simple y Fácil de Usar 🥇",
+        "description": "¡No necesitas perder tiempo tratando de entender una interfaz confusa! La aplicación móvil Gold Sniper cuenta con un diseño simple y fácil de usar que te da precisamente lo que necesitas sin complicaciones ni esfuerzo. Puedes navegar rápidamente por todas las páginas."
+      }
+    },
+    "cta": {
+      "title": "¡Todas las características más recientes y populares de Gold Sniper ahora están accesibles en tu dispositivo móvil!"
+    }
+  },
+  "video": {
+    "title": "Ve GoldSniper en Acción",
+    "subtitle": "Observa cómo los traders profesionales usan nuestra aplicación móvil para recibir y ejecutar señales de trading de oro de alta precisión.",
+    "description": "Experimenta el poder de las señales de trading de oro en tiempo real"
+  },
+  "howItWorks": {
+    "title": "¿Cómo funcionan las señales de Gold Sniper? 🥇",
+    "subtitle": "Nuestros analistas examinan cada componente para garantizar que tengas un sistema de señales de oro simple de usar para una experiencia de trading de alta calidad. Si sigues nuestras ideas de trading en vivo, puedes duplicar rápidamente nuestros trades en vivo en tu cuenta de trading.",
+    "steps": {
+      "step1": "Nuestro analista identifica una oportunidad de mercado que podría resultar en un trade rentable",
+      "step2": "Siguiendo un análisis de riesgo, determinan el TP y SL que maximizarán el beneficio mientras aseguran que las pérdidas se minimicen",
+      "step3": "La señal se confirma y se entrega inmediatamente a tu teléfono",
+      "step4": "¡Ejecutas el trade en tu cuenta de broker, manteniendo en mente el TP y SL!",
+      "step5": "¡Descansa sin estar ansioso por el trade, toma una bebida y espera la siguiente! Revisa tu cuenta bancaria, ve cuánto dinero has ganado y siéntete bien! 💰"
+    }
+  },
+  "howToRead": {
+    "title": "Cómo leer las señales de oro de Gold Sniper 🥇",
+    "subtitle": "En nuestra terminal de señales de oro, encontrarás la siguiente información:",
+    "status": {
+      "title": "Estado",
+      "description": "El estado actual de la señal:",
+      "live": "Sigue la alerta e ingresa al mercado",
+      "closed": "La señal ya no está operativa"
+    },
+    "action": {
+      "title": "Acción",
+      "description": "Señales de compra o venta con precio actual",
+      "buy": "Señales de compra de oro",
+      "sell": "Señales de venta de oro"
+    },
+    "entryPrice": {
+      "title": "Precio de Entrada",
+      "description": "Los miembros premium obtienen acceso al precio de entrada de cada señal de trade"
+    },
+    "stopLoss": {
+      "title": "Stop Loss",
+      "description": "Un punto de salida automatizado que protege tu inversión. Este es el precio propuesto para salir de la transacción si va en contra de nuestro análisis."
+    },
+    "payAttention": {
+      "title": "¡Presta Atención! 🥇",
+      "subtitle": "Hay 3 formas diferentes para que las señales XAUUSD se cierren:",
+      "automaticallySl": "Al alcanzar el nivel de stop loss",
+      "automaticallyTp": "Al alcanzar el nivel de take profit",
+      "manually": "Nuestro equipo cierra la señal basándose en el momentum y factores del mercado"
+    }
+  },
+  "goldTradingEducation": {
+    "title": "¿Qué es el trading de oro según Gold Sniper? 🥇",
+    "subtitle": "Debes saber que el oro es un metal precioso fósil y no renovable. Las reservas de minas abiertas se agotan año tras año, resultando en un crecimiento consistente en el valor de este activo con el tiempo.",
+    "safeHaven": {
+      "title": "Inversión de Refugio Seguro",
+      "description": "El oro también es una especie de refugio seguro para el capital de inversión. Las recesiones económicas siempre resultan en una gran salida de dinero de los valores. Temiendo desastres como resultado del crash del mercado de valores hará que los inversores cambien dinero a activos más confiables, uno de los cuales es el oro."
+    },
+    "longTerm": {
+      "title": "Crecimiento de Valor a Largo Plazo",
+      "description": "La depreciación anual del dinero fiduciario, a menudo conocida como inflación, puede explicar el aumento continuo en los precios del oro. El valor del oro siempre sube a largo plazo, independientemente del entorno macroeconómico."
+    },
+    "successMetrics": {
+      "title": "Métricas de Éxito en Trading",
+      "subtitle": "Un ingreso mensual constante de 10-20% es un logro financiero fuerte para un trader de oro. Solo necesitarás hacer trading intradiario para lograr tal resultado en el trading de oro.",
+      "monthlyIncome": "Objetivo de Ingreso Mensual",
+      "timeframe": "Mejor Timeframe",
+      "tradingPair": "Par de Trading Principal"
+    }
+  },
+  "tradingTips": {
+    "title": "Nuestros 7 mejores consejos para hacer trading de oro exitosamente 🥇",
+    "subtitle": "Como puedes ver, seguir nuestras señales de moneda de oro es directo. Cuando aparece una señal en nuestra app de señales o recibes una alerta en tu teléfono, abre un trade al precio spot y usa los ajustes predeterminados de stop loss y take profit.",
+    "tips": {
+      "plan": {
+        "title": "Planifica tus Trades",
+        "description": "Antes de comenzar una nueva posición, haz un plan para entrar y salir de un trade. Mantén tu estrategia y resiste la tentación de modificarla en el momento."
+      },
+      "riskManagement": {
+        "title": "Gestión de Riesgo",
+        "description": "Nunca abras posiciones con todo tu capital disponible. Usa no más del 20-25% de ellos para todas las posiciones abiertas y no más del 2% para cada trade individual."
+      },
+      "cutLosses": {
+        "title": "Corta las Pérdidas Temprano",
+        "description": "Nunca agraves una situación perdedora. Las órdenes de stop deben usarse para minimizar las pérdidas potenciales en todas las posiciones activas."
+      },
+      "followTrend": {
+        "title": "Sigue la Tendencia",
+        "description": "En lugar de ir contra el mercado, ve con él. ¡El mercado siempre está correcto!"
+      },
+      "bigPicture": {
+        "title": "Enfoque de Panorama General",
+        "description": "Mira el panorama general. Incluso si solo haces trading por un corto tiempo, siempre debes mantener un ojo en la tendencia a largo plazo."
+      },
+      "review": {
+        "title": "Revisa tus Trades",
+        "description": "Haz un hábito de revisar tus trades. De esta manera, podrás hacer un seguimiento de tus ganancias y pérdidas, así como descubrir cualquier defecto."
+      },
+      "stopLoss": {
+        "title": "Usa Órdenes de Stop Loss",
+        "description": "Siempre protege tu capital con órdenes de stop loss. Ocasionalmente proporcionamos notas con nuestras señales, como \"Sube el stop loss al punto de equilibrio si el precio se acerca a nuestro take profit.\""
+      }
+    }
+  },
+  "marketFactors": {
+    "title": "Factores que impactan los precios del oro 🥇",
+    "subtitle": "Aquí es donde Gold Sniper puede ayudarte a conocer todos los diferentes factores que afectan el oro y encontrar las mejores oportunidades de trading.",
+    "supplyDemand": {
+      "title": "Oferta y Demanda",
+      "description": "Según los datos de volumen por día, la fabricación de joyería representa la mitad de la demanda mundial. Otro 40% está compuesto por cuentas de inversión. Cuando la demanda es alta y la oferta es baja, los precios suben."
+    },
+    "volatility": {
+      "title": "Volatilidad del Mercado",
+      "description": "Las señales de trading en tiempo real de tu software de gráficos reaccionarán a los movimientos del mercado. Cuando las acciones están teniendo un rendimiento inferior, los inversores se vuelven hacia el oro. Cuando las expectativas del mercado de valores son alcistas, los niveles de trading de oro disminuyen."
+    },
+    "geopolitics": {
+      "title": "Geopolítica",
+      "description": "Una simple mirada al historial de precios del oro revela que las proyecciones de hoy están influenciadas por influencias geopolíticas. La incertidumbre en los mercados financieros hará que las empresas se apresuren hacia el oro, impulsando los precios."
+    }
+  },
+  "appInterface": {
+    "title": "Interfaz de Trading Intuitiva",
+    "subtitle": "Nuestra app cuenta con una interfaz limpia y profesional diseñada tanto para principiantes como para traders experimentados. Accede a toda la información crítica de un vistazo con nuestro dashboard optimizado.",
+    "features": [
+      "Datos de mercado en vivo y feeds de precios",
+      "Ejecución de señales con un toque",
+      "Seguimiento del rendimiento del portafolio",
+      "Herramientas de gestión de riesgo"
+    ],
+    "button": "Probar Demo"
+  },
+  "premium": {
+    "title": "Ve Premium 🥇",
+    "subtitle": "Nuestra aplicación móvil no solo proporcionará actualizaciones en vivo sobre señales de oro para usuarios Premium, sino que también te proporcionará estos beneficios.",
+    "benefits": [
+      "Los miembros PREMIUM obtienen más señales de oro, más oportunidades de trading y más ganancias.",
+      "Los miembros PREMIUM pueden abrir varios trades por día y recibir análisis para cada señal.",
+      "Los miembros PREMIUM pueden mejorar su discernimiento del mercado comparando su propio análisis con el nuestro.",
+      "Los miembros PREMIUM de Gold Sniper ganan el doble cuando salen del mercado."
+    ],
+    "expertTeam": {
+      "title": "Equipo Experto",
+      "description": "Somos un equipo de traders y analistas experimentados. Sabemos todo lo que hay que saber sobre los mercados financieros ya que tenemos más de diez años de experiencia. Desarrollamos Gold Sniper porque sabemos lo difícil que puede ser hacer trading y mantener la calma. Estamos aquí para ayudarte a mejorar tu enfoque y lograr resultados increíbles en tus cuentas."
+    }
+  },
+  "performance": {
+    "title": "93% de señales rentables con nuestras señales diarias XAUUSD",
+    "subtitle": "Nuestros usuarios confían en la fuerte precisión de señales y ejecución rápida para asegurar ganancias en el mercado del Oro.",
+    "button": "Nuestros Resultados",
+    "stats": {
+      "successRate": "Tasa de Éxito",
+      "activeUsers": "Usuarios Activos",
+      "marketCoverage": "Cobertura del Mercado",
+      "signalDelivery": "Entrega de Señales"
+    },
+    "appPerformance": {
+      "title": "Rendimiento Comprobado de la App 📈",
+      "subtitle": "Nuestra aplicación móvil entrega resultados consistentes con procesamiento de datos en tiempo real y entrega de señales ultrarrápida. Únete a miles de traders exitosos usando nuestra plataforma diariamente."
+    }
+  },
+  "comprehensiveGuide": {
+    "title": "Guía Completa de Trading de Oro con GoldSniper 📚",
+    "subtitle": "Todo lo que necesitas saber sobre hacer trading de oro exitosamente con nuestro servicio profesional de señales.",
+    "sections": {
+      "realTime": {
+        "title": "Señales de Oro y Trading al Minuto 🥇",
+        "content": "Las señales de oro son extremadamente sensibles al tiempo, y debes actuar rápido para asegurar los mejores precios. Los precios pueden fluctuar increíblemente rápido, así que si recibes una notificación de señal de oro, deberías comprar o vender inmediatamente. Como resultado, si tus señales de oro están directamente vinculadas a tu teléfono, podrás ejecutar trades rápidamente. La aplicación ideal de trading de oro debería incluir varias características que te permitan acceder a información crítica, recibir alertas en tiempo real y ver a los profesionales hacer trading. ¿Por qué esperar cuando Gold Sniper combina toda esta información en una sola aplicación de trading, dándote todas las herramientas que necesitas para convertirte en un trader de oro exitoso?"
+      },
+      "global": {
+        "title": "Entendiendo las Señales Globales de Oro 🥇",
+        "content": "Las horas de trading de oro son más largas que las de prácticamente cualquier otro mercado en el mundo, permitiéndote hacer trading en cualquier momento. El mercado FX, que es usado por brokers de todo el mundo, a menudo está disponible para profesionales, traders aficionados y principiantes de todo el mundo. Las señales de Gold Sniper pueden ayudarte a mantenerte actualizado sobre lo que está pasando, sin importar dónde estés. Puedes confiar en Gold Sniper, la mejor aplicación de señales de oro, para mantenerte haciendo trading consistentemente desde prácticamente cualquier lugar. ¿Qué te está deteniendo de aniquilar los mercados si tu laptop está conectada e internet está disponible?"
+      },
+      "specifics": {
+        "title": "Específicos del Trading de Oro 🥇",
+        "content": "Cuando se trata de este metal precioso en el mercado OTC, es crítico recordar que un lote estándar equivale a 100 onzas troy. XAU es un símbolo de oro en el mercado del oro. Los brokers proporcionan a los traders la oportunidad de beneficiarse del precio de este activo transando en el par XAU/USD. El gráfico muestra el precio de una onza de metal en dólares estadounidenses. Los brokers necesitan una cantidad mínima de contrato de 0.01 del lote, lo que significa que debes tener 1,550 USD para comenzar a hacer trading de oro (incluyendo comisiones). El mayor grado de apalancamiento disponible para traders inexpertos es en promedio 1:1000; sin embargo, tratar con un volumen tan grande de fondos prestados plantea graves peligros de trading. El grado ideal de apalancamiento es 1:100. Al usar apalancamiento, es crítico prestar mucha atención a las condiciones de trading con margen. Algunos brokers establecen el Stop Out (cierre forzado de un trade con un mal resultado financiero) al 60-70 por ciento del depósito del trader, mientras que otros lo ponen al 20-30 por ciento. Además, ten en cuenta las reglas de gestión de dinero en los mercados financieros. El riesgo por transacción no debe ser más del 5-10%. Para cumplir con estos requisitos, debes depositar al menos $200 USD en una cuenta de trading."
+      },
+      "howGoldWorks": {
+        "title": "¿Cómo funciona el oro con Gold Sniper? 🥇",
+        "content": "En el mercado del oro, el oro es básicamente una moneda. Casi siempre se comercia contra el dólar estadounidense bajo el símbolo XAU/USD. Como resultado, tu enfoque debe monitorear cambios en el dólar estadounidense. Un aumento en el valor del dólar estadounidense podría reducir el valor del oro. Así que mantente actualizado en sitios web de noticias de oro para obtener información sobre tendencias y análisis futuros. Al hacer trading de oro en el mercado del oro, la liquidez es muy crucial. El oro tiene el mayor volumen promedio de trading diario de cualquier par de divisas. Puedes usar una variedad de técnicas y sistemas en tu estrategia de trading de oro como el scalping de oro. Todos ellos necesitarán examen técnico diario de gráficos de precio y volumen."
+      },
+      "startTrading": {
+        "title": "Cómo comenzar a hacer trading de oro con Gold Sniper 🥇",
+        "content": "Incluso para individuos con poca o ninguna experiencia previa o una pequeña cantidad de dinero para invertir, hacer trading de oro con Gold Sniper es la mejor opción. Algunas preguntas que puedes tener: ¿Cómo sabré cuándo una nueva señal va a entrar en efecto? ¿Debería comprar o vender, y cuánto debería pagar? ¡Nuestro servicio de señales puede responder todas estas preguntas y más!"
+      },
+      "bestApps": {
+        "title": "Mejores aplicaciones de señales de moneda de oro para usar 🥇",
+        "content": "En primer lugar, elige una aplicación que sea compatible con tus dispositivos actuales. Si usas una variedad de dispositivos móviles, busca las mejores aplicaciones de señales de oro para descargar tanto para iOS como para Android. Debido a que las señales de moneda xauusd se proporcionan en tiempo real, deberías actuar sobre ellas lo antes posible para optimizar tus posibilidades de ejecutar un trade ganador. Todos nuestros consejos se basan en análisis técnico de gráficos de oro así como en investigación fundamental de eventos económicos y noticias del mercado."
+      }
+    }
+  },
+  "downloadCta": {
+    "title": "¡Descarga la aplicación móvil Gold Sniper ahora! 🥇",
+    "subtitle": "Puedes confiar en Gold Sniper, la mejor aplicación de señales de oro, para mantenerte haciendo trading consistentemente desde prácticamente cualquier lugar. ¿Qué te está deteniendo de aniquilar los mercados si tu laptop está conectada e internet está disponible?"
+  },
+  "seo": {
+    "home": {
+      "title": "GoldSniper - La App #1 de Señales de Trading de Oro 🔥",
+      "description": "Accede a las mejores señales de ORO para hacer trading de XAUUSD en los mercados. 93% de trades rentables con nuestra app premium de señales de trading de oro.",
+      "keywords": "señales de trading de oro, señales XAUUSD, app de trading de oro, señales de trading gratis, alertas de precio del oro, plataforma de trading, señales forex, análisis del mercado del oro"
+    },
+    "signalsApp": {
+      "title": "Características de la App GoldSniper - Señales Profesionales de Trading de Oro",
+      "description": "Descubre las características avanzadas de GoldSniper para trading de XAUUSD. Obtén señales 93% precisas, alertas en tiempo real, análisis experto y herramientas profesionales de trading móvil.",
+      "keywords": "características app goldsniper, app trading XAUUSD, app móvil señales oro, alertas trading, análisis profesional oro, plataforma trading móvil"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre las señales de trading de GoldSniper",
+    "questions": {
+      "whatIs": {
+        "q": "¿Qué es GoldSniper y cómo funciona?",
+        "a": "GoldSniper es una aplicación profesional de señales de trading de oro que proporciona alertas de trading XAUUSD en tiempo real con 93% de precisión. Nuestros analistas expertos analizan las condiciones del mercado y te envían señales precisas de compra/venta directamente a tu dispositivo móvil."
+      },
+      "accuracy": {
+        "q": "¿Qué tan precisas son sus señales de trading de oro?",
+        "a": "Nuestras señales mantienen una tasa de éxito del 93% basada en el rendimiento histórico. Nuestro equipo de traders experimentados con más de 10 años en el mercado del oro analiza cuidadosamente cada señal antes de la entrega para garantizar la máxima rentabilidad."
+      },
+      "free": {
+        "q": "¿Es GoldSniper gratuito de usar?",
+        "a": "Sí, GoldSniper ofrece señales gratuitas de trading de oro para ayudar a los traders a tener éxito en el mercado XAUUSD. Descarga nuestra aplicación móvil y comienza a recibir alertas de trading profesionales sin costo."
+      },
+      "platforms": {
+        "q": "¿En qué plataformas está disponible GoldSniper?",
+        "a": "GoldSniper está disponible en plataformas iOS y Android. Puedes descargarlo desde App Store o Google Play Store y comenzar a recibir señales de trading inmediatamente."
+      },
+      "receive": {
+        "q": "¿Cómo recibo las señales de trading?",
+        "a": "Una vez que descargues la aplicación GoldSniper, recibirás notificaciones push en tiempo real con señales de trading detalladas que incluyen puntos de entrada, stop loss y niveles de take profit para trades XAUUSD."
+      },
+      "experience": {
+        "q": "¿Necesito experiencia de trading para usar GoldSniper?",
+        "a": "¡No se requiere experiencia previa! Nuestras señales vienen con instrucciones claras y nuestra interfaz simple hace que sea fácil para los principiantes seguir las recomendaciones de trading profesionales."
+      },
+      "timeframes": {
+        "q": "¿Qué marcos de tiempo cubren sus señales?",
+        "a": "Nuestras señales están optimizadas para varios marcos de tiempo incluyendo scalping, day trading y swing trading. Cada señal especifica el marco de tiempo recomendado para máxima efectividad."
+      },
+      "broker": {
+        "q": "¿Puedo usar estas señales con cualquier broker?",
+        "a": "Sí, nuestras señales XAUUSD son universales y pueden usarse con cualquier broker forex que ofrezca trading de oro. Las señales incluyen puntos de entrada/salida estándar que funcionan en todas las plataformas."
+      }
+    }
+  },
+  "footer": {
+    "description": "Señales profesionales de trading de oro con 93% de precisión. Descarga nuestra aplicación móvil y únete a miles de traders exitosos en todo el mundo.",
+    "sections": {
+      "appFeatures": "Características de la App",
+      "support": "Soporte"
+    },
+    "links": {
+      "realTimeSignals": "Señales en Tiempo Real",
+      "marketAnalysis": "Análisis de Mercado",
+      "performanceTracking": "Seguimiento de Rendimiento",
+      "communityAccess": "Acceso a la Comunidad",
+      "helpCenter": "Centro de Ayuda",
+      "userGuide": "Guía del Usuario"
+    },
+    "copyright": "© 2025 GoldSniper. Todos los derechos reservados.",
+    "disclaimer": "El trading implica riesgos. El rendimiento pasado no garantiza resultados futuros."
+  },
+  "finalCta": {
+    "title": "¿Listo para unirse? 🎯",
+    "getOnGooglePlay": "Obtener en Google Play",
+    "downloadOnAppStore": "Descargar en App Store"
+  },
+  "gettingStarted": {
+    "title": "Es simple comenzar 🚀",
+    "steps": {
+      "download": {
+        "title": "Descarga la aplicación",
+        "description": "Obtén GoldSniper desde tu tienda de aplicaciones y crea tu cuenta en segundos."
+      },
+      "join": {
+        "title": "Únete a nuestro grupo de Telegram",
+        "description": "Conéctate con nuestra comunidad de traders exitosos y obtén perspectivas exclusivas."
+      },
+      "copy": {
+        "title": "Comienza a copiar señales",
+        "description": "Sigue nuestros puntos precisos de entrada y salida para maximizar tus ganancias de trading."
+      }
+    },
+    "cta": "Únete a nosotros hoy y comienza a ganar 20% mensual. 💰"
+  },
+  "download": {
+    "title": "Descárgalo gratis 🆓",
+    "subtitle": "Comienza con GoldSniper hoy. Sin cargos ocultos, sin suscripciones. Solo señales premium de trading de oro al alcance de tus dedos."
+  },
+  "tradingInsights": {
+    "title": "Nuestras perspectivas de trading",
+    "viewMore": "Ver más perspectivas",
+    "cards": {
+      "smartDollar": {
+        "title": "Entradas Inteligentes del Dólar",
+        "description": "Aprende puntos de entrada óptimos para trades XAUUSD basados en análisis de fortaleza del USD.",
+        "readTime": "5 min de lectura"
+      },
+      "goldTrends": {
+        "title": "Tendencias del Mercado del Oro",
+        "description": "Entiende los patrones actuales del mercado y las oportunidades próximas en el trading de oro.",
+        "readTime": "8 min de lectura"
+      },
+      "riskManagement": {
+        "title": "Gestión de Riesgo",
+        "description": "Domina el arte del dimensionamiento de posiciones y colocación de stop-loss para ganancias consistentes.",
+        "readTime": "6 min de lectura"
+      }
+    }
+  },
+  "insights": {
+    "title": "Últimas Perspectivas del Mercado",
+    "subtitle": "Mantente adelante con nuestro análisis experto y perspectivas del mercado en tiempo real para trading XAUUSD."
+  },
+  "safeTraders": {
+    "title": "Somos traders seguros y precisos 💪",
+    "subtitle": "Con más de 5 años en forex y más de 1000 trades XAUUSD por mes, aseguramos solo las entradas y alertas más precisas.",
+    "button": "Nuestros Resultados",
+    "analysisButton": "Nuestro Análisis"
+  },
+  "footer": {
+    "links": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad"
+  },
+  "terms": {
+    "title": "Términos de Servicio"
+  },
+  "support": {
+    "title": "Contactar Soporte",
+    "subtitle": "¿Necesitas ayuda? ¿Tienes preguntas? Estamos aquí para asistirte con cualquier consulta sobre GoldSniper.",
+    "form": {
+      "title": "Envíanos un mensaje",
+      "name": "Tu Nombre",
+      "namePlaceholder": "Ingresa tu nombre completo",
+      "email": "Dirección de Email",
+      "emailPlaceholder": "tu.email@ejemplo.com",
+      "reason": "Motivo del Contacto",
+      "reasonPlaceholder": "Selecciona un motivo",
+      "message": "Mensaje",
+      "messagePlaceholder": "Por favor describe tu consulta en detalle...",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando..."
+    },
+    "reasons": {
+      "general": "Consulta General",
+      "technical": "Soporte Técnico",
+      "bug": "Reporte de Error",
+      "feedback": "Comentarios"
+    },
+    "contact": {
+      "title": "Otras formas de contactarnos",
+      "email": "Email"
+    },
+    "faq": {
+      "title": "Preguntas Comunes"
+    },
+    "faqs": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Encuentra respuestas a las preguntas más comunes sobre GoldSniper"
+    },
+    "success": {
+      "title": "¡Mensaje Enviado Exitosamente!",
+      "description": "Tu cliente de email debería haberse abierto con tu mensaje. Si no, por favor envía tu mensaje manualmente a info@goldsniper.io",
+      "sendAnother": "Enviar Otro Mensaje"
+    }
+  },
+  "calculators": {
+    "common": {
+      "calculate": "Calcular",
+      "clear": "Limpiar",
+      "result": "Resultado",
+      "results": "Resultados",
+      "analysis": "Análisis",
+      "loading": "Calculando...",
+      "error": "Por favor ingresa valores válidos",
+      "xauusdTradingGuide": "Guía de Trading XAUUSD",
+      "professionalTool": "Herramienta Profesional",
+      "freeCalculator": "Calculadora Gratuita"
+    },
+    "positionSize": {
+      "title": "Calculadora de Tamaño de Posición XAUUSD",
+      "subtitle": "Calcula el tamaño óptimo de posición para trading XAUUSD con gestión de riesgo",
+      "description": "Calcula tamaños de posición óptimos para trading XAUUSD con funciones avanzadas de gestión de riesgo, recomendaciones de posición y análisis detallado.",
+      "accountBalance": "Balance de Cuenta ($)",
+      "riskPercentage": "Porcentaje de Riesgo (%)",
+      "entryPrice": "Precio de Entrada",
+      "stopLoss": "Stop Loss",
+      "positionSize": "Tamaño de Posición (Lotes)",
+      "riskAmount": "Cantidad de Riesgo",
+      "pipDifference": "Diferencia de Pips",
+      "recommendation": "Recomendación",
+      "calculateButton": "Calcular Tamaño de Posición",
+      "whatIsPositionSizing": "¿Qué es el Dimensionamiento de Posición?",
+      "whatIsPositionSizingText": "El dimensionamiento de posición determina cuánto de tu cuenta arriesgar en cada trade XAUUSD, ayudando a preservar capital y gestionar riesgo efectivamente.",
+      "riskManagementRules": "Reglas de Gestión de Riesgo",
+      "riskManagementRulesText": "Sigue estas pautas esenciales para un dimensionamiento de posición XAUUSD seguro y protección de cuenta.",
+      "positionSizeFormula": "Fórmula del Tamaño de Posición",
+      "positionSizeFormulaText": "Tamaño de Posición = (Balance de Cuenta × % Riesgo) ÷ (Precio Entrada - Stop Loss)"
+    },
+    "pip": {
+      "title": "Calculadora de Pips XAUUSD",
+      "subtitle": "Calcula el valor de pip y ganancia/pérdida para posiciones XAUUSD",
+      "description": "Calcula valores de pip para XAUUSD con ejemplos detallados, análisis de ganancia/pérdida y contenido educativo completo sobre pips de trading de oro.",
+      "currencyPair": "Par de Divisas",
+      "tradeSize": "Tamaño del Trade (Lotes)",
+      "pips": "Número de Pips",
+      "pipValue": "Valor del Pip ($)",
+      "totalValue": "Valor Total",
+      "accountCurrency": "Moneda de la Cuenta",
+      "calculateButton": "Calcular Valor del Pip",
+      "whatIsAPip": "¿Qué es un Pip?",
+      "whatIsAPipText": "Un pip es el movimiento de precio más pequeño en trading XAUUSD, típicamente $0.01 para oro, representando el cuarto lugar decimal.",
+      "calculatingPipValue": "Calculando Valor del Pip",
+      "calculatingPipValueText": "El valor del pip depende de tu tamaño de trade y ayuda a determinar ganancias y pérdidas potenciales en trading XAUUSD.",
+      "pipValueFormula": "Fórmula del Valor del Pip",
+      "pipValueFormulaText": "Valor del Pip = Tamaño del Trade × Movimiento del Pip × Tamaño del Contrato"
+    },
+    "margin": {
+      "title": "Calculadora de Margen XAUUSD",
+      "subtitle": "Calcula requisitos de margen y apalancamiento para trading de oro",
+      "description": "Calcula requisitos de margen para trading XAUUSD con análisis de apalancamiento, cálculos de margen libre y advertencias de riesgo completas.",
+      "tradeSize": "Tamaño del Trade (Lotes)",
+      "leverage": "Apalancamiento",
+      "contractSize": "Tamaño del Contrato",
+      "currentPrice": "Precio Actual",
+      "marginRequired": "Margen Requerido",
+      "marginPercentage": "Porcentaje de Margen",
+      "freeMargin": "Margen Libre",
+      "calculateButton": "Calcular Margen",
+      "whatIsTradingMargin": "¿Qué es el Margen de Trading?",
+      "whatIsTradingMarginText": "El margen de trading es el depósito requerido para abrir una posición apalancada XAUUSD, permitiéndote controlar posiciones más grandes con menos capital.",
+      "marginVsFreeMargin": "Margen vs Margen Libre",
+      "marginVsFreeMarginText": "El margen usado está bloqueado para posiciones abiertas, mientras que el margen libre está disponible para nuevos trades en tu cuenta XAUUSD.",
+      "marginCalculationFormula": "Fórmula de Cálculo de Margen",
+      "marginCalculationFormulaText": "Margen Requerido = (Tamaño del Trade × Tamaño del Contrato × Precio Actual) ÷ Apalancamiento"
+    },
+    "fibonacci": {
+      "title": "Calculadora Fibonacci XAUUSD",
+      "subtitle": "Calcula niveles de retroceso y extensión Fibonacci",
+      "description": "Calcula niveles de retroceso y extensión Fibonacci para trading de oro XAUUSD. Herramienta profesional para análisis técnico con niveles de soporte y resistencia.",
+      "highPrice": "Precio Máximo",
+      "lowPrice": "Precio Mínimo",
+      "type": "Tipo",
+      "retracement": "Retroceso",
+      "extension": "Extensión",
+      "fibonacciLevels": "Niveles Fibonacci",
+      "calculateButton": "Calcular Fibonacci",
+      "fibonacciRetracements": "Retrocesos Fibonacci",
+      "fibonacciRetracementsText": "Los retrocesos Fibonacci ayudan a identificar niveles potenciales de soporte y resistencia en trading XAUUSD basados en ratios clave.",
+      "fibonacciExtensions": "Extensiones Fibonacci",
+      "fibonacciExtensionsText": "Las extensiones Fibonacci ayudan a predecir objetivos de precio potenciales más allá de la tendencia original en movimientos XAUUSD."
+    },
+    "pivot": {
+      "title": "Calculadora de Puntos Pivot XAUUSD",
+      "subtitle": "Calcula puntos pivot y niveles de soporte/resistencia",
+      "description": "Calcula puntos pivot, niveles de soporte y resistencia para trading de oro XAUUSD. Calculadora gratuita de puntos pivot para análisis técnico.",
+      "highPrice": "Precio Máximo",
+      "lowPrice": "Precio Mínimo",
+      "closePrice": "Precio de Cierre",
+      "pivotPointsLevels": "Puntos Pivot y Niveles",
+      "calculateButton": "Calcular Puntos Pivot",
+      "whatArePivotPoints": "¿Qué son los Puntos Pivot?",
+      "whatArePivotPointsText": "Los puntos pivot son indicadores técnicos que ayudan a identificar niveles potenciales de soporte y resistencia en trading XAUUSD.",
+      "howToUsePivotPoints": "Cómo Usar Puntos Pivot",
+      "howToUsePivotPointsText": "Los puntos pivot ayudan a los traders a identificar niveles de precio clave donde XAUUSD podría revertir o atravesar."
+    },
+    "riskOfRuin": {
+      "title": "Calculadora de Riesgo de Ruina",
+      "subtitle": "Calcula la probabilidad de perder tu cuenta de trading",
+      "description": "Calcula la probabilidad de riesgo de ruina para trading XAUUSD. Evalúa el riesgo de quiebra de cuenta con análisis de tasa de ganancia y riesgo-recompensa.",
+      "winRate": "Tasa de Ganancia (%)",
+      "riskRewardRatio": "Ratio Riesgo/Recompensa",
+      "riskPerTrade": "Riesgo por Trade (%)",
+      "riskOfRuinProbability": "Probabilidad de Riesgo de Ruina",
+      "calculateButton": "Calcular Riesgo de Ruina",
+      "whatIsRiskOfRuin": "¿Qué es el Riesgo de Ruina?",
+      "whatIsRiskOfRuinText": "El riesgo de ruina es la probabilidad de que tu cuenta de trading sea completamente agotada basada en tus estadísticas de trading.",
+      "riskManagementRules": "Reglas de Gestión de Riesgo",
+      "riskManagementRulesText": "Sigue estas pautas para minimizar tu riesgo de ruina en trading XAUUSD."
+    },
+    "leverage": {
+      "title": "Calculadora de Apalancamiento XAUUSD",
+      "subtitle": "Calcula apalancamiento actual y utilización de margen",
+      "description": "Calcula apalancamiento actual y utilización de margen para trading XAUUSD. Analiza el ratio de apalancamiento de cuenta y poder de trading.",
+      "accountBalance": "Balance de Cuenta ($)",
+      "usedMargin": "Margen Usado ($)",
+      "totalPositionValue": "Valor Total de Posición ($)",
+      "currentLeverage": "Apalancamiento Actual",
+      "leverageRatio": "Ratio de Apalancamiento",
+      "freeMargin": "Margen Libre",
+      "marginLevel": "Nivel de Margen",
+      "calculateButton": "Calcular Apalancamiento",
+      "understandingLeverage": "Entendiendo el Apalancamiento",
+      "understandingLeverageText": "El apalancamiento te permite controlar posiciones más grandes con menos capital en trading XAUUSD, amplificando tanto ganancias como pérdidas.",
+      "safeLeveragePractices": "Prácticas Seguras de Apalancamiento",
+      "safeLeveragePracticesText": "Sigue estas pautas para uso responsable del apalancamiento en trading XAUUSD."
+    },
+    "compounding": {
+      "title": "Calculadora de Capitalización XAUUSD",
+      "subtitle": "Calcula el crecimiento compuesto de tu cuenta de trading",
+      "description": "Calcula crecimiento compuesto para cuentas de trading XAUUSD. Proyecta crecimiento de cuenta con retornos mensuales y ganancias a largo plazo.",
+      "initialCapital": "Capital Inicial ($)",
+      "monthlyReturn": "Retorno Mensual (%)",
+      "timePeriod": "Período de Tiempo (Meses)",
+      "finalAmount": "Cantidad Final",
+      "totalReturn": "Retorno Total",
+      "monthlyBreakdown": "Desglose Mensual",
+      "calculateButton": "Calcular Crecimiento",
+      "powerOfCompounding": "Poder de la Capitalización",
+      "powerOfCompoundingText": "La capitalización permite que tus ganancias de trading XAUUSD generen sus propias ganancias, creando crecimiento exponencial con el tiempo.",
+      "realisticExpectations": "Expectativas Realistas",
+      "realisticExpectationsText": "Establece objetivos realistas de retorno mensual para crecimiento sostenible de trading XAUUSD."
+    },
+    "drawdown": {
+      "title": "Calculadora de Drawdown XAUUSD",
+      "subtitle": "Calcula el drawdown actual de tu cuenta de trading",
+      "description": "Calcula porcentaje de drawdown para cuentas de trading XAUUSD. Analiza rendimiento de cuenta y requisitos de recuperación.",
+      "peakBalance": "Balance Máximo ($)",
+      "currentBalance": "Balance Actual ($)",
+      "currentDrawdown": "Drawdown Actual",
+      "recoveryNeeded": "Recuperación Necesaria",
+      "riskAssessment": "Evaluación de Riesgo",
+      "calculateButton": "Calcular Drawdown",
+      "understandingDrawdown": "Entendiendo el Drawdown",
+      "understandingDrawdownText": "El drawdown mide la disminución desde el balance máximo de tu cuenta hasta su balance actual, expresado como porcentaje.",
+      "recoveryStrategies": "Estrategias de Recuperación",
+      "recoveryStrategiesText": "Diferentes niveles de drawdown requieren diferentes enfoques de recuperación en trading XAUUSD."
+    },
+    "rebate": {
+      "title": "Calculadora de Reembolso XAUUSD",
+      "subtitle": "Calcula reembolsos de trading y recompensas cashback",
+      "description": "Calcula reembolsos de trading y recompensas cashback para trading XAUUSD. Estima ganancias de reembolso diarias, mensuales y anuales.",
+      "dailyTradeVolume": "Volumen de Trading Diario (Lotes)",
+      "rebatePerLot": "Reembolso por Lote ($)",
+      "tradingDaysMonth": "Días de Trading/Mes",
+      "dailyRebate": "Reembolso Diario",
+      "monthlyRebate": "Reembolso Mensual",
+      "yearlyRebate": "Reembolso Anual",
+      "rebateImpact": "Impacto del Reembolso",
+      "calculateButton": "Calcular Reembolsos",
+      "howRebatesWork": "Cómo Funcionan los Reembolsos",
+      "howRebatesWorkText": "Los reembolsos de trading son recompensas cashback pagadas por brokers por tu volumen de trading XAUUSD.",
+      "maximizingRebates": "Maximizando Reembolsos",
+      "maximizingRebatesText": "Estrategias para optimizar tus ganancias de reembolso del trading XAUUSD."
+    },
+    "currency": {
+      "title": "Conversor de Monedas",
+      "subtitle": "Convierte monedas para trading internacional XAUUSD",
+      "description": "Convierte monedas para trading de oro XAUUSD internacional. Herramienta esencial para cuentas de trading multi-moneda.",
+      "amount": "Cantidad",
+      "from": "De",
+      "to": "A",
+      "convertedAmount": "Cantidad Convertida",
+      "exchangeRate": "Tipo de Cambio",
+      "calculateButton": "Convertir Moneda",
+      "currencyConsiderations": "Consideraciones de Moneda",
+      "currencyConsiderationsText": "Al hacer trading XAUUSD internacionalmente, la conversión de moneda afecta tus ganancias, márgenes y cálculos de riesgo.",
+      "majorTradingCurrencies": "Principales Monedas de Trading",
+      "majorTradingCurrenciesText": "Estas son las monedas más comunes usadas en trading de oro XAUUSD globalmente."
+    }
+  }
+}

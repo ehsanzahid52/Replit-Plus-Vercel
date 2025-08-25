@@ -1,0 +1,797 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "performance": "Results",
+    "pricing": "Pricing",
+    "tools": "Tools",
+    "support": "Support",
+    "signalsApp": "Signals App"
+  },
+  "common": {
+    "downloadFor": "Download for {{platform}}",
+    "downloadFree": "Download for Free",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "viewResults": "View Results",
+    "contactSupport": "Contact Support",
+    "faq": "FAQ",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "tradingSignals": "Trading Signals",
+    "goldTrading": "Gold Trading",
+    "xauusd": "XAUUSD",
+    "professionalTraders": "Professional Traders",
+    "getOnGooglePlay": "Get on Google Play",
+    "downloadOnAppStore": "Download on App Store",
+    "downloadForIphone": "Download for iPhone",
+    "downloadForAndroid": "Download for Android"
+  },
+  "hero": {
+    "title": "The #1 Gold Signals",
+    "titleHighlight": "app in the world!",
+    "subtitle": "We send strong Gold signals for you to copy trade. Join now to receive signal insights for XAUUSD trading.",
+    "stats": {
+      "accuracy": "93% Accuracy",
+      "users": "17K+ Users",
+      "coverage": "24/7 Coverage",
+      "delivery": "< 1s Delivery"
+    }
+  },
+  "signalsApp": {
+    "title": "Download the Premium",
+    "titleHighlight": "Gold Trading App",
+    "subtitle": "Get real-time XAUUSD signals, advanced analytics, and copy trading features directly on your mobile device."
+  },
+  "features": {
+    "title": "Why we are the best signal choice?",
+    "subtitle": "We give real-time signals on a daily basis and always focus on the best options rather than overtrading the bad ones. Our free gold signals will allow you to earn in the most efficient and convenient ways possible.",
+    "cards": {
+      "xauusd": {
+        "title": "Only XAUUSD",
+        "description": "Focused exclusively on gold trading for maximum expertise and precision."
+      },
+      "members": {
+        "title": "17,000+ Worldwide Members",
+        "description": "Join our global community of successful gold traders worldwide."
+      },
+      "best": {
+        "title": "Best in Industry",
+        "description": "Industry-leading accuracy and performance in gold signal delivery."
+      },
+      "daily": {
+        "title": "Daily Signals",
+        "description": "Consistent daily signals with real-time market analysis and insights."
+      },
+      "experienced": {
+        "title": "Experienced Traders",
+        "description": "Our team consists of professional traders with over 10 years of experience in gold markets."
+      },
+      "signals": {
+        "title": "Real-Time Signals",
+        "description": "Get instant notifications with precise entry points, stop loss, and take profit levels."
+      },
+      "overwhelmed": {
+        "title": "Never Feel Overwhelmed",
+        "description": "Our simple interface and clear signals make trading accessible for everyone."
+      },
+      "interface": {
+        "title": "User-Friendly Interface",
+        "description": "Clean, intuitive design that works perfectly on all mobile devices."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Trading Gold?"
+    }
+  },
+  "video": {
+    "title": "See GoldSniper in Action",
+    "subtitle": "Watch how professional traders use our mobile app to receive and execute high-precision gold trading signals.",
+    "description": "Experience the power of real-time gold trading signals"
+  },
+  "howItWorks": {
+    "title": "How do Gold Sniper Signals Work? 🥇",
+    "subtitle": "Our analysts scrutinize every component to guarantee that you have a simple-to-use gold signals system for a high-quality trading experience. If you follow our live trading ideas, you can quickly duplicate our live trades on your trading account.",
+    "steps": {
+      "step1": "Our analyst identify a market opportunity that might result in a profitable trade",
+      "step2": "Following a risk analysis, they determine the TP and SL that will maximize profit while ensuring that any losses are minimized",
+      "step3": "The signal is confirmed and immediately delivered to your phone",
+      "step4": "You execute the trade on your brokerage account, keeping the TP and SL in mind!",
+      "step5": "Rest without being anxious about the trade, grab a drink, and wait for the next one! Check your bank account, see how much money you've made and feel good! 💰"
+    }
+  },
+  "howToRead": {
+    "title": "How to Read Gold Sniper's Gold Signals 🥇",
+    "subtitle": "In our Gold signals terminal, you will find the following information:",
+    "status": {
+      "title": "Status",
+      "description": "The signal's current status:",
+      "live": "Follow the alert and enter the market",
+      "closed": "Signal is no longer operational"
+    },
+    "action": {
+      "title": "Action",
+      "description": "Buy or Sell signals with current price",
+      "buy": "Gold buy signals",
+      "sell": "Gold sell signals"
+    },
+    "entryPrice": {
+      "title": "Entry Price",
+      "description": "Premium members get access to each trade signal's entry price"
+    },
+    "stopLoss": {
+      "title": "Stop Loss",
+      "description": "An automated departure point that safeguards your investment. This is the proposed price for exiting the transaction if it goes against our analysis."
+    },
+    "payAttention": {
+      "title": "Pay Attention! 🥇",
+      "subtitle": "There are 3 different ways for XAUUSD signals to get closed:",
+      "automaticallySl": "By reaching the stop loss level",
+      "automaticallyTp": "By reaching the take profit level",
+      "manually": "Our team closes the signal based on momentum and market factors"
+    }
+  },
+  "goldTradingEducation": {
+    "title": "What is Gold Trading According to Gold Sniper? 🥇",
+    "subtitle": "You should know that gold is a fossil and non-renewable precious metal. The reserves of open mines are drained year after year, resulting in consistent growth in the value of this asset over time.",
+    "safeHaven": {
+      "title": "Safe Haven Investment",
+      "description": "Gold is also a kind of safe haven for investment capital. Economic downturns always result in a large outflow of money from securities. Fearing disaster such as a result of the stock market crashing will have investors shifting cash to more dependable assets, one of which is gold."
+    },
+    "longTerm": {
+      "title": "Long-term Value Growth",
+      "description": "The yearly depreciation of fiat money, often known as inflation, can explain the continuous rise in gold prices. Gold's value always rises in the long run, regardless of the macroeconomic environment."
+    },
+    "successMetrics": {
+      "title": "Trading Success Metrics",
+      "subtitle": "A steady monthly income of 10-20% is a strong financial accomplishment for a gold trader. You will only need to intraday trade to attain such an outcome in gold trading.",
+      "monthlyIncome": "Monthly Income Target",
+      "timeframe": "Best Timeframe",
+      "tradingPair": "Primary Trading Pair"
+    }
+  },
+  "tradingTips": {
+    "title": "Our Top 7 Tips for Trading Gold Successfully 🥇",
+    "subtitle": "As you can see, following our gold currency signals is straightforward. When a signal appears on our signals app or you receive an alert on your phone, open a trade at the spot price and use the predetermined stop loss and take profit settings.",
+    "tips": {
+      "plan": {
+        "title": "Plan Your Trades",
+        "description": "Before starting a new position, make a plan for entering and exiting a trade. Stick to your strategy and resist the urge to modify it on the spur of the moment."
+      },
+      "riskManagement": {
+        "title": "Risk Management",
+        "description": "Never open positions with all your available capital. Use no more than 20-25% of them for all open positions and no more than 2% for each individual trade."
+      },
+      "cutLosses": {
+        "title": "Cut Losses Early",
+        "description": "Never aggravate a losing situation. Stop orders should be used to minimize potential losses on all active positions."
+      },
+      "followTrend": {
+        "title": "Follow the Trend",
+        "description": "Instead of going against the market, go with it. The market is always correct!"
+      },
+      "bigPicture": {
+        "title": "Big Picture Focus",
+        "description": "Take a look at the big picture. Even if you just trade for a short time, you should always keep an eye on the long-term trend."
+      },
+      "review": {
+        "title": "Review Your Trades",
+        "description": "Make it a habit to go through your trades. This way, you'll be able to keep track of your profits and losses, as well as discover any flaws."
+      },
+      "stopLoss": {
+        "title": "Use Stop Loss Orders",
+        "description": "Always protect your capital with stop loss orders. We occasionally provide notes with our signals, such as \"Raise the stop loss to breakeven if the price approaches our take profit.\""
+      }
+    }
+  },
+  "marketFactors": {
+    "title": "Factors That Impact Gold Prices 🥇",
+    "subtitle": "This is where Gold Sniper can help you know all the different factors affecting gold and find you the best trading opportunities.",
+    "supplyDemand": {
+      "title": "Supply and Demand",
+      "description": "According to volume per day data, jewelry manufacture accounts for half of worldwide demand. Another 40% is made up of investment accounts. When demand is high and supply is low, prices climb."
+    },
+    "volatility": {
+      "title": "Market Volatility",
+      "description": "Your charting software's real-time trading signals will react to market movements. When stocks are underperforming, investors turn to gold. When stock market expectations are bullish, gold trading levels decrease."
+    },
+    "geopolitics": {
+      "title": "Geopolitics",
+      "description": "A simple glance at gold's price history reveals that today's projections are influenced by geopolitical influences. Uncertainty in the financial markets will prompt firms to rush to gold, driving up prices."
+    }
+  },
+  "appInterface": {
+    "title": "Intuitive Trading Interface",
+    "subtitle": "Our app features a clean, professional interface designed for both beginners and experienced traders. Access all critical information at a glance with our streamlined dashboard.",
+    "features": [
+      "Live market data and price feeds",
+      "One-tap signal execution",
+      "Portfolio performance tracking",
+      "Risk management tools"
+    ],
+    "button": "Try Demo"
+  },
+  "premium": {
+    "title": "Go Premium 🥇",
+    "subtitle": "Our mobile app will not only provide live updates on gold signals for Premium users, but it will also provide you with these benefits.",
+    "benefits": [
+      "PREMIUM members get more gold signals, more trading opportunities, and more profits.",
+      "PREMIUM members can open several trades per day and receive analysis for each signal.",
+      "PREMIUM members can improve their market discernment by comparing their own analysis to ours.",
+      "Gold Sniper PREMIUM members earn twice as much when they exit the market."
+    ],
+    "expertTeam": {
+      "title": "Expert Team",
+      "description": "We are a team of experienced traders and analysts. We know all there is to know about financial markets as we have over ten years of expertise. We developed Gold Sniper because we know how difficult it can be to trade and remain calm. We are here to assist you in improving your approach and achieving amazing results on your accounts."
+    }
+  },
+  "performance": {
+    "title": "93% profitable signals with our daily XAUUSD signals",
+    "subtitle": "Our users rely on strong signal precision and fast execution to secure gains in the Gold market.",
+    "button": "Our Results",
+    "stats": {
+      "successRate": "Success Rate",
+      "activeUsers": "Active Users",
+      "marketCoverage": "Market Coverage",
+      "signalDelivery": "Signal Delivery"
+    },
+    "appPerformance": {
+      "title": "Proven App Performance 📈",
+      "subtitle": "Our mobile app delivers consistent results with real-time data processing and lightning-fast signal delivery. Join thousands of successful traders using our platform daily."
+    }
+  },
+  "comprehensiveGuide": {
+    "title": "Complete Guide to Gold Trading with GoldSniper 📚",
+    "subtitle": "Everything you need to know about trading gold successfully with our professional signals service.",
+    "sections": {
+      "realTime": {
+        "title": "Up-to-the-minute Gold Signals and Trading 🥇",
+        "content": "Gold signals are extremely time-sensitive, and you must act fast to secure the best pricing. Prices can fluctuate incredibly quickly, so if you receive a Gold signal notification, you should buy or sell straight away. As a result, if your Gold signals are directly linked to your phone, you will be able to execute trades fast. The ideal Gold trading app should include several features that enable you to access critical information, receive real-time alerts and watch the pros trade. Why wait when Gold Sniper combines all of this information in a single trade app, giving you all of the tools you need to become a successful Gold trader?"
+      },
+      "global": {
+        "title": "Understanding Global Gold Signals 🥇",
+        "content": "Gold trading hours are longer than those of practically any other market in the world, allowing you to trade at virtually any time. The FX market, which is used by brokers all around the world, is often available to professionals, amateur traders, and beginners from all over the world. Gold Sniper signals can help you stay updated about what is going on, no matter where you are. You can rely on Gold Sniper, the best gold signals app, to keep you trading consistently from practically anywhere. What's stopping you from annihilating the markets if your laptop is connected and internet is available?"
+      },
+      "specifics": {
+        "title": "Gold Trading Specifics 🥇",
+        "content": "When dealing with this precious metal on the OTC market, it is critical to remember that one standard lot equals 100 troy ounces. XAU Is a gold symbol in the gold market. Brokers provide traders the chance to profit from the pricing of this asset by transacting on the XAU/USD pair. The graph depicts the price of one ounce of metal in US dollars. Brokers need a minimum contract amount of 0.01 from the lot, which means that you must have 1,550 USD to begin trading gold (including commissions). The greatest degree of leverage available to inexperienced traders is on average 1:1000; nevertheless, dealing with such a large volume of borrowed funds poses severe trading dangers. The ideal degree of leverage is 1:100. When using leverage, it is critical to pay close attention to the margin trading conditions. Some brokerages set the Stop Out (forced closing of a trade with a poor financial outcome) at 60-70 percent of the trader's deposit, while others put it at 20-30 percent. Furthermore, keep in mind the rules of money management in financial markets. The risk per transaction should not be more than 5-10%. To comply with these requirements, you should deposit at least $200 USD into a trading account."
+      },
+      "howGoldWorks": {
+        "title": "How Does Gold Work with Gold Sniper? 🥇",
+        "content": "In the gold market, gold is basically a currency. It is almost always traded against the US dollar under the symbol XAU/USD. As a result, your approach must monitor changes in the US dollar. A rise in the value of the US dollar might reduce the value of gold. So stay up to date on gold news websites for insights into forthcoming trends and analyses. When trading gold on the gold market, liquidity is very crucial. Gold has the highest average daily trading volume of any currency pair. You can use a variety of techniques and systems in your gold trading strategy such as gold scalping. All of them will need daily technical examination of price and volume charts."
+      },
+      "startTrading": {
+        "title": "How to Start Trading Gold with GoldSniper 🥇",
+        "content": "Even for individuals with little to no prior expertise or a little amount of money to invest, trading gold with Gold Sniper is the best choice. Some questions you may have: How will I know when a new signal is going to go into effect? Should I buy or sell, and how much should I pay? Our signaling service can answer all of these questions and more!"
+      },
+      "bestApps": {
+        "title": "Best Gold Currency Signals Apps to Use 🥇",
+        "content": "First and foremost, choose an app that is compatible with your current devices. If you use a variety of mobile devices, check for the best Gold signal applications to download for both iOS and Android. Because xauusd currency signals are provided in real time, you should act on them as soon as possible to optimize your chances of executing a winning trade. All of our tips are based on technical analysis of Gold charts as well as fundamental research of economic events and market news."
+      }
+    }
+  },
+  "downloadCta": {
+    "title": "Download the Gold Sniper mobile app now! 🥇",
+    "subtitle": "You can rely on Gold Sniper, the best gold signals app, to keep you trading consistently from practically anywhere. What's stopping you from annihilating the markets if your laptop is connected and internet is available?"
+  },
+  "safeTraders": {
+    "title": "We are safe & precise traders 💪",
+    "subtitle": "With 5+ years in forex & 1000+ XAUUSD trades per month, we ensure only the sharpest entries and alerts.",
+    "button": "Our Results",
+    "analysisButton": "Our Analysis"
+  },
+  "gettingStarted": {
+    "title": "It's simple to get started 🚀",
+    "steps": {
+      "download": {
+        "title": "Download the app",
+        "description": "Get GoldSniper from your app store and create your account in seconds."
+      },
+      "join": {
+        "title": "Join our Telegram group",
+        "description": "Connect with our community of successful traders and get exclusive insights."
+      },
+      "copy": {
+        "title": "Start copying signals",
+        "description": "Follow our precise entry and exit points to maximize your trading profits."
+      }
+    },
+    "cta": "Join us today and start making 20% monthly. 💰"
+  },
+  "download": {
+    "title": "Download it for free 🆓",
+    "subtitle": "Get started with GoldSniper today. No hidden charges, no subscriptions. Just premium gold trading signals at your fingertips."
+  },
+  "guide": {
+    "title": "Complete Guide to Gold Trading with GoldSniper 📚",
+    "subtitle": "Everything you need to know about trading gold successfully with our professional signals service.",
+    "sections": {
+      "realTime": {
+        "title": "Up-to-the-minute Gold Signals and Trading 🥇",
+        "content": "Gold signals are extremely time-sensitive, and you must act fast to secure the best pricing. Prices can fluctuate incredibly quickly, so if you receive a Gold signal notification, you should buy or sell straight away. As a result, if your Gold signals are directly linked to your phone, you will be able to execute trades fast. The ideal Gold trading app should include several features that enable you to access critical information, receive real-time alerts and watch the pros trade. Why wait when Gold Sniper combines all of this information in a single trade app, giving you all of the tools you need to become a successful Gold trader?"
+      },
+      "global": {
+        "title": "Understanding Global Gold Signals 🥇",
+        "content": "Gold trading hours are longer than those of practically any other market in the world, allowing you to trade at virtually any time. The FX market, which is used by brokers all around the world, is often available to professionals, amateur traders, and beginners from all over the world. Gold Sniper signals can help you stay updated about what is going on, no matter where you are. You can rely on Gold Sniper, the best gold signals app, to keep you trading consistently from practically anywhere. What's stopping you from annihilating the markets if your laptop is connected and internet is available?"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about GoldSniper trading signals",
+    "questions": {
+      "whatIs": {
+        "q": "What is GoldSniper and how does it work?",
+        "a": "GoldSniper is a professional gold trading signals app that provides real-time XAUUSD trading alerts with 93% accuracy. Our expert analysts analyze market conditions and send you precise buy/sell signals directly to your mobile device."
+      },
+      "accuracy": {
+        "q": "How accurate are your gold trading signals?",
+        "a": "Our signals maintain a 93% success rate based on historical performance. Our team of experienced traders with 10+ years in the gold market carefully analyze every signal before delivery to ensure maximum profitability."
+      },
+      "free": {
+        "q": "Is GoldSniper free to use?",
+        "a": "Yes, GoldSniper offers free gold trading signals to help traders succeed in the XAUUSD market. Download our mobile app and start receiving professional trading alerts at no cost."
+      },
+      "platforms": {
+        "q": "What platforms is GoldSniper available on?",
+        "a": "GoldSniper is available on both iOS and Android platforms. You can download it from the App Store or Google Play Store and start receiving trading signals immediately."
+      },
+      "receive": {
+        "q": "How do I receive the trading signals?",
+        "a": "Once you download the GoldSniper app, you'll receive real-time push notifications with detailed trading signals including entry points, stop loss, and take profit levels for XAUUSD trades."
+      },
+      "experience": {
+        "q": "Do I need trading experience to use GoldSniper?",
+        "a": "No prior experience needed! Our signals come with clear instructions and our simple interface makes it easy for beginners to follow professional trading recommendations."
+      },
+      "timeframes": {
+        "q": "What timeframes do your signals cover?",
+        "a": "Our signals are optimized for various timeframes including scalping, day trading, and swing trading. Each signal specifies the recommended timeframe for maximum effectiveness."
+      },
+      "broker": {
+        "q": "Can I use these signals with any broker?",
+        "a": "Yes, our XAUUSD signals are universal and can be used with any forex broker that offers gold trading. The signals include standard entry/exit points that work across all platforms."
+      }
+    }
+  },
+  "footer": {
+    "description": "Professional gold trading signals with 93% accuracy. Download our mobile app and join thousands of successful traders worldwide.",
+    "sections": {
+      "appFeatures": "App Features",
+      "support": "Support"
+    },
+    "links": {
+      "realTimeSignals": "Real-Time Signals",
+      "marketAnalysis": "Market Analysis",
+      "performanceTracking": "Performance Tracking",
+      "communityAccess": "Community Access",
+      "helpCenter": "Help Center",
+      "userGuide": "User Guide",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© 2025 GoldSniper. All rights reserved.",
+    "disclaimer": "Trading involves risk. Past performance does not guarantee future results."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "welcome": "Welcome to Gold Sniper - Forex Alerts!",
+    "description": "This Privacy Policy explains how Gold Sniper - Forex Alerts (\"the App,\" \"we,\" \"us,\" or \"our\"), operated by Zilvy (\"the Company\"), collects, uses, and protects your personal data when you use our services.",
+    "agreement": "By using the App, you acknowledge and agree to the practices described in this Privacy Policy.",
+    "sections": {
+      "dataCollection": {
+        "title": "Data Collection & Usage",
+        "subtitle": "We collect and process the following types of data when you use Gold Signals - Forex Alerts:",
+        "infoWeCollect": "Information We Collect",
+        "personalInfo": {
+          "title": "Personal Information (User-Provided Data)",
+          "description": "Name, email address, and payment details (if subscribing to premium services)."
+        },
+        "deviceInfo": {
+          "title": "Device & Usage Information",
+          "description": "Device type, operating system, IP address (for geo-restrictions), and activity logs."
+        },
+        "locationInfo": {
+          "title": "Location Data (For Geo-Blocking & Compliance)",
+          "description": "We may collect approximate location data to enforce geo-restrictions in the UK and other restricted regions."
+        },
+        "whyWeCollect": "Why We Collect This Data",
+        "reasons": [
+          "To provide real-time market alerts and insights.",
+          "To enforce geo-restrictions and comply with financial regulations.",
+          "To process premium subscriptions and transactions.",
+          "To improve app functionality, security, and user experience."
+        ]
+      },
+      "dataSharing": {
+        "title": "Data Sharing & Third Parties",
+        "noSell": "We DO NOT sell or rent user data.",
+        "shareWith": "We only share data with trusted third-party services, including:",
+        "paymentProcessors": "Payment Processors (Google Play, Apple) to manage subscriptions.",
+        "analyticsProviders": "Analytics Providers to track app performance and improve services.",
+        "legalAuthorities": "Legal Authorities if required to comply with law enforcement or regulatory requirements."
+      },
+      "dataSecurity": {
+        "title": "Data Security",
+        "implement": "We implement industry-standard security measures to protect your data.",
+        "noGuarantee": "However, no system is 100% secure—we cannot guarantee absolute security."
+      },
+      "geoRestrictions": {
+        "title": "Geo-Restrictions & Data Handling",
+        "notAvailable": "Not Available in Certain Regions",
+        "ukRestriction": "Gold Signals - Forex Alerts is NOT available in the United Kingdom.",
+        "autoBlock": "If your location is detected as UK, access may be blocked automatically."
+      },
+      "userRights": {
+        "title": "User Rights & Data Deletion",
+        "mayRequest": "You may request:",
+        "accountDeletion": "Account deletion at any time by emailing info@goldsniper.io.",
+        "dataCorrection": "Correction of inaccurate personal data stored in our system.",
+        "deleteContact": "To delete your data, please contact us at: info@goldsniper.io"
+      },
+      "policyUpdates": {
+        "title": "Policy Updates",
+        "description": "We may update this Privacy Policy periodically. If significant changes occur, we will notify users via the App or email. Continued use of the App after updates means you accept the revised Privacy Policy."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "description": "If you have any questions regarding this Privacy Policy, please contact us at:",
+        "email": "Email: info@goldsniper.io",
+        "company": "Company: Zilvy"
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "description": "By downloading, accessing, or using Gold Sniper - Forex Alerts (\"the App\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, do not use the App.",
+        "privacyAgreement": "By using the App, you also agree to our Privacy Policy."
+      },
+      "informational": {
+        "title": "Informational Purposes Only – No Financial Advice",
+        "points": [
+          "Gold Sniper - Forex Alerts provides financial market insights, alerts, and analysis purely for informational and educational purposes.",
+          "We DO NOT provide investment advice, financial planning, brokerage, or trading execution services.",
+          "We do not guarantee any profits, returns, or success in trading based on the information provided in the App."
+        ],
+        "acknowledge": "You acknowledge and agree that:",
+        "disclaimers": [
+          "No content in the App should be considered investment or trading advice.",
+          "We are not responsible for financial losses incurred due to reliance on information provided in the App.",
+          "You should consult a licensed financial professional before making any trading or investment decisions."
+        ]
+      },
+      "eligibility": {
+        "title": "User Eligibility",
+        "ageRequirement": "The App is intended for users 18 years or older.",
+        "geoRestrictions": "Not Available in Certain Regions – The App is not intended for users in the United Kingdom. If you are in a restricted region, you must immediately discontinue use of the App."
+      },
+      "noBrokerage": {
+        "title": "No Trading Execution or Brokerage Services",
+        "noBrokerageServices": "We do NOT provide brokerage services, trading execution, or financial transactions.",
+        "ownRisk": "Any trading actions taken based on the App's information are solely at your own risk."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "notResponsible": "We are not responsible for:",
+        "responsibilities": [
+          "Market losses, failed trades, or financial damages resulting from the use of the App.",
+          "Any inaccuracies, delays, or omissions in market alerts or data.",
+          "Any unauthorized access, hacking, or security breaches affecting the App."
+        ],
+        "waiver": "By using the App, you waive any legal claims against us related to trading decisions, market conditions, or financial outcomes."
+      },
+      "subscription": {
+        "title": "Subscription & Payments",
+        "features": "Some features of the App are available through premium subscriptions.",
+        "processing": "Payments are processed through third-party providers (Google Play / Apple App Store).",
+        "renewal": "Subscriptions automatically renew unless canceled before the renewal date.",
+        "noRefunds": "No refunds are issued for partially used subscription periods."
+      },
+      "conduct": {
+        "title": "User Conduct & Prohibited Activities",
+        "agreeNot": "You agree NOT to:",
+        "prohibited": [
+          "Use the App for illegal financial activities or investment fraud.",
+          "Copy, scrape, or distribute content from the App.",
+          "Share, sell, or distribute premium content without authorization."
+        ]
+      },
+      "termination": {
+        "title": "Termination of Use",
+        "rightToTerminate": "We reserve the right to suspend or terminate access to the App if:",
+        "reasons": [
+          "You violate these Terms or engage in fraudulent activity.",
+          "You attempt to access the App from geo-restricted regions (e.g., UK)."
+        ]
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "description": "We may update these Terms from time to time. Continued use of the App after changes means you accept the revised Terms."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "description": "For any questions about these Terms, contact us at: info@goldsniper.io"
+      }
+    }
+  },
+  "finalCta": {
+    "title": "Ready to join? 🎯",
+    "getOnGooglePlay": "Get on Google Play",
+    "downloadOnAppStore": "Download on App Store"
+  },
+  "tradingInsights": {
+    "title": "Our trading insights",
+    "viewMore": "View more insights",
+    "cards": {
+      "smartDollar": {
+        "title": "Smart Dollar Entries",
+        "description": "Learn optimal entry points for XAUUSD trades based on USD strength analysis.",
+        "readTime": "5 min read"
+      },
+      "goldTrends": {
+        "title": "Gold Market Trends",
+        "description": "Understand current market patterns and upcoming opportunities in gold trading.",
+        "readTime": "8 min read"
+      },
+      "riskManagement": {
+        "title": "Risk Management",
+        "description": "Master the art of position sizing and stop-loss placement for consistent profits.",
+        "readTime": "6 min read"
+      }
+    }
+  },
+  "insights": {
+    "title": "Latest Market Insights",
+    "subtitle": "Stay ahead with our expert analysis and real-time market insights for XAUUSD trading."
+  },
+  "seo": {
+    "home": {
+      "title": "GoldSniper - The #1 Gold Trading Signals App 🔥",
+      "description": "Access the best GOLD signals for trading XAUUSD in the markets. 93% profitable trades with our premium gold trading signals app.",
+      "keywords": "gold trading signals, XAUUSD signals, gold trading app, free trading signals, gold price alerts, trading platform, forex signals, gold market analysis"
+    },
+    "signalsApp": {
+      "title": "GoldSniper App Features - Professional Gold Trading Signals",
+      "description": "Discover GoldSniper's advanced features for XAUUSD trading. Get 93% accurate signals, real-time alerts, expert analysis, and professional trading tools on mobile.",
+      "keywords": "goldsniper app features, XAUUSD trading app, gold signals mobile app, trading alerts, professional gold analysis, mobile trading platform"
+    }
+  },
+  "support": {
+    "title": "Contact Support",
+    "subtitle": "Need help? Have questions? We're here to assist you with any inquiries about GoldSniper.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your.email@example.com",
+      "reason": "Reason for Contact",
+      "reasonPlaceholder": "Select a reason",
+      "message": "Message",
+      "messagePlaceholder": "Please describe your inquiry in detail...",
+      "send": "Send Message",
+      "sending": "Sending..."
+    },
+    "reasons": {
+      "general": "General Inquiry",
+      "technical": "Technical Support",
+      "bug": "Bug Report",
+      "feedback": "Feedback"
+    },
+    "contact": {
+      "title": "Other ways to reach us",
+      "email": "Email"
+    },
+    "faq": {
+      "title": "Common Questions"
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find answers to the most common questions about GoldSniper"
+    },
+    "success": {
+      "title": "Message Sent Successfully!",
+      "description": "Your email client should have opened with your message. If not, please send your message manually to info@goldsniper.io",
+      "sendAnother": "Send Another Message"
+    }
+  },
+  "calculators": {
+    "common": {
+      "calculate": "Calculate",
+      "clear": "Clear",
+      "result": "Result",
+      "results": "Results",
+      "analysis": "Analysis",
+      "loading": "Calculating...",
+      "error": "Please enter valid values",
+      "xauusdTradingGuide": "XAUUSD Trading Guide",
+      "professionalTool": "Professional Tool",
+      "freeCalculator": "Free Calculator"
+    },
+    "positionSize": {
+      "title": "XAUUSD Position Size Calculator",
+      "subtitle": "Calculate optimal position size for XAUUSD trading with risk management",
+      "description": "Calculate optimal position sizes for XAUUSD trading with advanced risk management features, position recommendations, and detailed analysis.",
+      "accountBalance": "Account Balance ($)",
+      "riskPercentage": "Risk Percentage (%)",
+      "entryPrice": "Entry Price",
+      "stopLoss": "Stop Loss",
+      "positionSize": "Position Size (Lots)",
+      "riskAmount": "Risk Amount",
+      "pipDifference": "Pip Difference",
+      "recommendation": "Recommendation",
+      "calculateButton": "Calculate Position Size",
+      "whatIsPositionSizing": "What is Position Sizing?",
+      "whatIsPositionSizingText": "Position sizing determines how much of your account to risk on each XAUUSD trade, helping preserve capital and manage risk effectively.",
+      "riskManagementRules": "Risk Management Rules",
+      "riskManagementRulesText": "Follow these essential guidelines for safe XAUUSD position sizing and account protection.",
+      "positionSizeFormula": "Position Size Formula",
+      "positionSizeFormulaText": "Position Size = (Account Balance × Risk %) ÷ (Entry Price - Stop Loss)"
+    },
+    "pip": {
+      "title": "XAUUSD Pip Calculator",
+      "subtitle": "Calculate pip value and profit/loss for XAUUSD positions",
+      "description": "Calculate pip values for XAUUSD with detailed examples, profit/loss analysis, and comprehensive educational content about gold trading pips.",
+      "currencyPair": "Currency Pair",
+      "tradeSize": "Trade Size (Lots)",
+      "pips": "Number of Pips",
+      "pipValue": "Pip Value ($)",
+      "totalValue": "Total Value",
+      "accountCurrency": "Account Currency",
+      "calculateButton": "Calculate Pip Value",
+      "whatIsAPip": "What is a Pip?",
+      "whatIsAPipText": "A pip is the smallest price movement in XAUUSD trading, typically $0.01 for gold, representing the fourth decimal place.",
+      "calculatingPipValue": "Calculating Pip Value",
+      "calculatingPipValueText": "Pip value depends on your trade size and helps determine potential profits and losses in XAUUSD trading.",
+      "pipValueFormula": "Pip Value Formula",
+      "pipValueFormulaText": "Pip Value = Trade Size × Pip Movement × Contract Size"
+    },
+    "margin": {
+      "title": "XAUUSD Margin Calculator",
+      "subtitle": "Calculate margin requirements and leverage for gold trading",
+      "description": "Calculate margin requirements for XAUUSD trading with leverage analysis, free margin calculations, and comprehensive risk warnings.",
+      "tradeSize": "Trade Size (Lots)",
+      "leverage": "Leverage",
+      "contractSize": "Contract Size",
+      "currentPrice": "Current Price",
+      "marginRequired": "Margin Required",
+      "marginPercentage": "Margin Percentage",
+      "freeMargin": "Free Margin",
+      "calculateButton": "Calculate Margin",
+      "whatIsTradingMargin": "What is Trading Margin?",
+      "whatIsTradingMarginText": "Trading margin is the deposit required to open a leveraged XAUUSD position, allowing you to control larger positions with smaller capital.",
+      "marginVsFreeMargin": "Margin vs Free Margin",
+      "marginVsFreeMarginText": "Used margin is locked for open positions, while free margin is available for new trades in your XAUUSD account.",
+      "marginCalculationFormula": "Margin Calculation Formula",
+      "marginCalculationFormulaText": "Required Margin = (Trade Size × Contract Size × Current Price) ÷ Leverage"
+    },
+    "fibonacci": {
+      "title": "XAUUSD Fibonacci Calculator",
+      "subtitle": "Calculate Fibonacci retracement and extension levels",
+      "description": "Calculate Fibonacci retracement and extension levels for XAUUSD gold trading. Professional tool for technical analysis with support and resistance levels.",
+      "highPrice": "High Price",
+      "lowPrice": "Low Price",
+      "type": "Type",
+      "retracement": "Retracement",
+      "extension": "Extension",
+      "fibonacciLevels": "Fibonacci Levels",
+      "calculateButton": "Calculate Fibonacci",
+      "fibonacciRetracements": "Fibonacci Retracements",
+      "fibonacciRetracementsText": "Fibonacci retracements help identify potential support and resistance levels in XAUUSD trading based on key ratios.",
+      "fibonacciExtensions": "Fibonacci Extensions",
+      "fibonacciExtensionsText": "Fibonacci extensions help predict potential price targets beyond the original trend in XAUUSD movements."
+    },
+    "pivot": {
+      "title": "XAUUSD Pivot Point Calculator",
+      "subtitle": "Calculate pivot points and support/resistance levels",
+      "description": "Calculate pivot points, support and resistance levels for XAUUSD gold trading. Free pivot point calculator for technical analysis.",
+      "highPrice": "High Price",
+      "lowPrice": "Low Price",
+      "closePrice": "Close Price",
+      "pivotPointsLevels": "Pivot Points & Levels",
+      "calculateButton": "Calculate Pivot Points",
+      "whatArePivotPoints": "What are Pivot Points?",
+      "whatArePivotPointsText": "Pivot points are technical indicators that help identify potential support and resistance levels in XAUUSD trading.",
+      "howToUsePivotPoints": "How to Use Pivot Points",
+      "howToUsePivotPointsText": "Pivot points help traders identify key price levels where XAUUSD might reverse or break through."
+    },
+    "riskOfRuin": {
+      "title": "Risk of Ruin Calculator",
+      "subtitle": "Calculate probability of losing your trading account",
+      "description": "Calculate risk of ruin probability for XAUUSD trading. Assess account blowout risk with win rate and risk-reward analysis.",
+      "winRate": "Win Rate (%)",
+      "riskRewardRatio": "Risk/Reward Ratio",
+      "riskPerTrade": "Risk Per Trade (%)",
+      "riskOfRuinProbability": "Risk of Ruin Probability",
+      "calculateButton": "Calculate Risk of Ruin",
+      "whatIsRiskOfRuin": "What is Risk of Ruin?",
+      "whatIsRiskOfRuinText": "Risk of ruin is the probability that your trading account will be completely depleted based on your trading statistics.",
+      "riskManagementRules": "Risk Management Rules",
+      "riskManagementRulesText": "Follow these guidelines to minimize your risk of ruin in XAUUSD trading."
+    },
+    "leverage": {
+      "title": "XAUUSD Leverage Calculator",
+      "subtitle": "Calculate current leverage and margin utilization",
+      "description": "Calculate current leverage and margin utilization for XAUUSD trading. Analyze account leverage ratio and trading power.",
+      "accountBalance": "Account Balance ($)",
+      "usedMargin": "Used Margin ($)",
+      "totalPositionValue": "Total Position Value ($)",
+      "currentLeverage": "Current Leverage",
+      "leverageRatio": "Leverage Ratio",
+      "freeMargin": "Free Margin",
+      "marginLevel": "Margin Level",
+      "calculateButton": "Calculate Leverage",
+      "understandingLeverage": "Understanding Leverage",
+      "understandingLeverageText": "Leverage allows you to control larger positions with smaller capital in XAUUSD trading, amplifying both profits and losses.",
+      "safeLeveragePractices": "Safe Leverage Practices",
+      "safeLeveragePracticesText": "Follow these guidelines for responsible leverage usage in XAUUSD trading."
+    },
+    "compounding": {
+      "title": "XAUUSD Compounding Calculator",
+      "subtitle": "Calculate compound growth of your trading account",
+      "description": "Calculate compound growth for XAUUSD trading accounts. Project account growth with monthly returns and long-term gains.",
+      "initialCapital": "Initial Capital ($)",
+      "monthlyReturn": "Monthly Return (%)",
+      "timePeriod": "Time Period (Months)",
+      "finalAmount": "Final Amount",
+      "totalReturn": "Total Return",
+      "monthlyBreakdown": "Monthly Breakdown",
+      "calculateButton": "Calculate Growth",
+      "powerOfCompounding": "Power of Compounding",
+      "powerOfCompoundingText": "Compounding allows your XAUUSD trading gains to generate their own gains, creating exponential growth over time.",
+      "realisticExpectations": "Realistic Expectations",
+      "realisticExpectationsText": "Set realistic monthly return targets for sustainable XAUUSD trading growth."
+    },
+    "drawdown": {
+      "title": "XAUUSD Drawdown Calculator",
+      "subtitle": "Calculate current drawdown of your trading account",
+      "description": "Calculate drawdown percentage for XAUUSD trading accounts. Analyze account performance and recovery requirements.",
+      "peakBalance": "Peak Balance ($)",
+      "currentBalance": "Current Balance ($)",
+      "currentDrawdown": "Current Drawdown",
+      "recoveryNeeded": "Recovery Needed",
+      "riskAssessment": "Risk Assessment",
+      "calculateButton": "Calculate Drawdown",
+      "understandingDrawdown": "Understanding Drawdown",
+      "understandingDrawdownText": "Drawdown measures the decline from your account's peak balance to its current balance, expressed as a percentage.",
+      "recoveryStrategies": "Recovery Strategies",
+      "recoveryStrategiesText": "Different drawdown levels require different recovery approaches in XAUUSD trading."
+    },
+    "rebate": {
+      "title": "XAUUSD Rebate Calculator",
+      "subtitle": "Calculate trading rebates and cashback rewards",
+      "description": "Calculate trading rebates and cashback rewards for XAUUSD trading. Estimate daily, monthly, and yearly rebate earnings.",
+      "dailyTradeVolume": "Daily Trade Volume (Lots)",
+      "rebatePerLot": "Rebate Per Lot ($)",
+      "tradingDaysMonth": "Trading Days/Month",
+      "dailyRebate": "Daily Rebate",
+      "monthlyRebate": "Monthly Rebate",
+      "yearlyRebate": "Yearly Rebate",
+      "rebateImpact": "Rebate Impact",
+      "calculateButton": "Calculate Rebates",
+      "howRebatesWork": "How Rebates Work",
+      "howRebatesWorkText": "Trading rebates are cashback rewards paid by brokers for your XAUUSD trading volume.",
+      "maximizingRebates": "Maximizing Rebates",
+      "maximizingRebatesText": "Strategies to optimize your rebate earnings from XAUUSD trading."
+    },
+    "currency": {
+      "title": "Currency Converter",
+      "subtitle": "Convert currencies for international XAUUSD trading",
+      "description": "Convert currencies for international XAUUSD gold trading. Essential tool for multi-currency trading accounts.",
+      "amount": "Amount",
+      "from": "From",
+      "to": "To",
+      "convertedAmount": "Converted Amount",
+      "exchangeRate": "Exchange Rate",
+      "calculateButton": "Convert Currency",
+      "currencyConsiderations": "Currency Considerations",
+      "currencyConsiderationsText": "When trading XAUUSD internationally, currency conversion affects your profits, margins, and risk calculations.",
+      "majorTradingCurrencies": "Major Trading Currencies",
+      "majorTradingCurrenciesText": "These are the most common currencies used in XAUUSD gold trading globally."
+    }
+  }
+}
