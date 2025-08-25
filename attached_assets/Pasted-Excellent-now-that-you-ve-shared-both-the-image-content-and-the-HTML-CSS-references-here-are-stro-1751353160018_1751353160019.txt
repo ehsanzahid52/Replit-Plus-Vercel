@@ -1,0 +1,133 @@
+Excellent — now that you’ve shared both the image content and the HTML/CSS references, here are strong, clear design guidelines you (or your team) can use to accurately recreate the site, focusing on:
+	•	📐 Layout structure
+	•	🎨 Color usage
+	•	🖼️ Image & icon assets
+	•	📦 Container widths
+	•	🧩 Fonts and typography
+	•	📱 Platform-specific assets (e.g. app buttons)
+
+⸻
+
+🔶 GoldSniper Website — Design System Guidelines
+
+⸻
+
+1️⃣ Overall Layout & Structure
+	•	Page Width:
+	•	Max width: 940px (centered .container)
+	•	On mobile: full width with padding (likely 20–30px left/right)
+	•	Grid System:
+	•	Used Webflow-style responsive columns (w-row, w-col), typically 3-col or 2-col
+	•	Spacing:
+	•	Vertical padding between sections: 80px desktop, ~40px mobile
+	•	Grid gaps: 24px–40px depending on section
+
+⸻
+
+2️⃣ Primary Colors
+
+Use	Hex Code	Notes
+Background	#000000	Deep black used throughout main sections
+Primary Gold	#D4AF37	Used for text highlights, icons, buttons
+Accent Gold	#F7C85C	Used for gradients, 3D visuals
+Button Hover	#FFC107	Brighter gold tone for CTA interactions
+Secondary Grey	#1A1A1A	Footer/nav background
+White Text	#FFFFFF	Standard body and heading text
+Light Grey	#F8F8F8	Occasionally for backgrounds or button text
+
+
+⸻
+
+3️⃣ Fonts & Typography
+	•	Font Family: Montserrat (Google Fonts)
+	•	Variants used: 400, 500, 600, 700, 900
+	•	Headline Sizes:
+	•	Hero: 48–60px
+	•	Section titles: 32–40px
+	•	Body Text: 16px or 18px
+	•	Line Height: 1.5 or 150%
+
+⸻
+
+4️⃣ Buttons & CTAs
+	•	Download Buttons:
+	•	Android: 
+
+	•	Apple: 
+
+	•	Style:
+	•	Bold text
+	•	Rounded corners (~8px)
+	•	Background: Gold gradient or solid
+	•	Hover: Slight glow or brightness bump
+
+⸻
+
+5️⃣ Key Image Assets (Extracted)
+
+Hero Phone Preview:
+📱 Group 150
+Image URL
+
+Partner Logos Grid:
+	•	Forex.com: 
+
+	•	XM: 
+
+Value Icons:
+	•	Trading Icon: 
+
+	•	Global Icon: 
+
+3D Graphs & Elements:
+	•	Charts/3D graphs:
+image 22
+image 20
+
+Decorative Currency Icons (floating SVGs):
+	•	Examples:
+c4.svg
+c6.svg
+
+⸻
+
+6️⃣ Sections & Visual Identity Summary
+
+Section	Layout	Visual Style
+Hero	Text left, image right	Black + gold; floating currency icons
+Partners	Grid (5 logos)	Brown/gold background
+Benefits	4 cards	Colored icons, short blurbs
+Results/Proof	2-column grid	Left = text, Right = 3D illustration
+Getting Started	3 horizontal steps	Numbered icons, follow-up screenshot
+Pricing	Centered pricing circle	Emphasis on “£39 monthly”
+Blog/Insights	3 blog cards	Cover image + title + read time
+Footer	3-column layout	Links + app icons + disclaimer
+
+
+⸻
+
+7️⃣ Mobile Responsiveness
+	•	Hero: Phones stack vertically with download buttons centered
+	•	Grids: 3- or 4-column cards collapse into single-column layouts
+	•	CTA Buttons: Expand full-width on mobile
+	•	Padding: Side padding ~20px on mobile
+
+⸻
+
+8️⃣ Container Rules (per Webflow)
+	•	.container: Max width 940px
+	•	.w-row: 12-column layout behavior
+	•	.grid-features: 5 columns desktop, 2 or 1 on mobile
+	•	.grid-benefits: 4 columns desktop, wraps responsively
+	•	.columns-7: 3 columns → 1 on mobile
+
+⸻
+
+✅ Final Notes
+	•	All buttons, icons, and decorative SVGs can be pulled from the URLs above
+	•	Fonts and containers are consistent with Webflow presets (no extreme customization)
+	•	Section backgrounds vary between solid black, dark gold, or soft gradients — never white
+
+⸻
+
+Would you like me to export all of this as a shareable design doc, or continue section-by-section with layout specs next?

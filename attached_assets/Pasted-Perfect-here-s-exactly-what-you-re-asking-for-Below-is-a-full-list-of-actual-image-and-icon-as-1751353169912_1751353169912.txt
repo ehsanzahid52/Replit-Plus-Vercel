@@ -1,0 +1,112 @@
+Perfect — here’s exactly what you’re asking for:
+
+✅ Below is a full list of actual image and icon asset URLs extracted directly from the source HTML you gave me. I’ve grouped them by where they appear on the site, so you can reference or reuse them easily in your rebuild or design tool.
+
+⸻
+
+🔶 HERO SECTION
+
+Phone App Preview Image:
+	•	📱 Group 150:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614a4da80502ad8434e17664_Group%20150.png
+
+Floating Currency Icons (SVGs):
+	•	💷 Pound (c1.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae031688687cc5192a5_c1.svg
+	•	💶 Euro (c2.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae0ad2e1685755a6a76_c2.svg
+	•	💰 Coin Icon (c3.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae0bcfccaa7b374cb68_c3.svg
+	•	💴 Yen (c4.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae0bf08d44241b9ed78_c4.svg
+	•	💸 Rupee (c5.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae0bf08d42d71b9ed79_c5.svg
+	•	📊 Dollar Coin (c6.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae0c81f4b71b40ee5e4_c6.svg
+	•	💱 Another Coin (c7.svg):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61483ae02e33bd2eac043d61_c7.svg
+
+⸻
+
+🔶 PARTNER LOGO SECTION
+	•	Partner 1:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614838cae48d81b411567f3b_1.png
+	•	Partner 2:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614838ca29fed5856bc8887f_2.png
+	•	Partner 3:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614838ca6b5ac54d19e25818_3.png
+	•	Partner 4 (Forex.com):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614838cac81f4b7ee60ee47f_4.png
+	•	Partner 5 (XM):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614838ca6d336c311f611dce_5.png
+
+⸻
+
+🔶 VALUE CARDS / BENEFITS
+	•	XAUUSD Trading Icon:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/6138949899094ef54a8050b7_Group%2070.svg
+	•	Worldwide Members:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614843340b4f491cc6e2673d_image%2016.png
+	•	Best in Industry:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614842f4d12a71cdaf9b6488_image%2017.png
+	•	Daily Signals Icon:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614843238a8b048290abd2a3_image%2018.png
+
+⸻
+
+🔶 PERFORMANCE PROOF / RESULTS SECTION
+	•	3D Bar Graph + Piggy Bank Graphic:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61484477f7c5051f6345d215_image%2022.png
+	•	Coins Overlay:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61484611c7c79203eb2511f6_image%2024.png
+
+⸻
+
+🔶 SAFE TRADERS SECTION
+	•	Gold Bar 3D:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61484d84b3d2118169c790b9_image%2020.png
+
+⸻
+
+🔶 3-STEP SECTION
+	•	Step 1 (Join):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614846ec1f4bfca9d4f0cf91_1.svg
+	•	Step 2 (Take Trades):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614846ec9864f117fba866a6_2.svg
+	•	Step 3 (Earn):
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614846ec2df9d37fc5428497_3.svg
+	•	Profit Table Screenshot:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/61484cdffad3cb706f71c727_61389171fc46d54c9a0c083f_Profit-1024x879.png.png
+
+⸻
+
+🔶 PRICING SECTION
+	•	Gold Coin Graphic:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/6149a5697442732797fb1f46_gold.svg
+
+⸻
+
+🔶 BLOG INSIGHT IMAGE CARDS
+	•	Blog Card 1:
+https://cdn.prod.website-files.com/61389171fc46d544580c0812/6214e8118d762c3d04f3dd66_dollar-1703159_1280.png
+	•	Blog Card 2:
+https://cdn.prod.website-files.com/61389171fc46d544580c0812/620e77beafc92d3765d55add_leather-3080553_1920.jpg
+	•	Blog Card 3:
+https://cdn.prod.website-files.com/61389171fc46d544580c0812/620e283584825daf8cd56fd0_photo-1624365169364-0640dd10e180.jpg
+
+⸻
+
+🔶 FOOTER GRAPHICS
+	•	Footer Background Image 1:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/614848669864f178a0a86982_image%2033.png
+	•	Footer Background Image 2:
+https://cdn.prod.website-files.com/61389171fc46d55b610c07fe/6148487ab17fc9989edfd028_image%2034.png
+
+⸻
+
+Let me know if you want:
+	•	All these URLs exported into a Notion doc / markdown
+	•	A cleaned ZIP file of just the assets for Figma or design use
+	•	The same treatment for icons or background patterns
+
+Ready when you are.
